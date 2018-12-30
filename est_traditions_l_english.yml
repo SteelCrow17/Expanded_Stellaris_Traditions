@@ -4,30 +4,30 @@ l_english:
 # ACADEMY
 ################################################################
 tradition_est_academy:0 "Academy"
-tradition_est_academy_desc:0 "Academies, schools and universities are spread across our empire and those that wish to reach the top do so through their intricate hierarchies."
+tradition_est_academy_desc:0 "Academies, schools, and universities are spread across our empire and those that wish to reach the top do so through their intricate hierarchies."
 tr_est_academy_adopt:0 "Academy Traditions"
 tr_est_academy_adopt_desc:0 "$tradition_est_academy_desc$\n\n$tr_est_academy_adopt_effect$\n\n$tr_est_academy_finish_effect$"
 tr_est_academy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YLeader Upkeep§! reduced by §G-15%§!."
 
 tr_est_academy_1:0 "Public Education"
 tr_est_academy_1_desc:0 "§YEmpire Leader Pool Size§! increased by §Y3§!."
-tr_est_academy_1_delayed:0 "Education is a right which belongs to all. Through public education we can ensure a basic level of education of all citizen. From width comes excellence."
+tr_est_academy_1_delayed:0 "Education is a right which belongs to all. Through public education, all citizens are ensured the foundational knowledge needed to live prosperous lives."
 
 tr_est_academy_2:0 "Mandatory Higher Education"
 tr_est_academy_2_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§! increased by §Y1§!."
-tr_est_academy_2_delayed:0 "By ensuring that the large majority of our citizens attain a higher education we can ensure that the various functions in our society are executed by capable leaders."
+tr_est_academy_2_delayed:0 "By mandating a higher education for all citizens, we can ensure that our leaders are capable of executing their roles with deft precision."
 
 tr_est_academy_3:0 "Learn, Unlearn, and Relearn"
 tr_est_academy_3_desc:0 "§YLeader Experience Gain§! increased by §G+20%§!."
-tr_est_academy_3_delayed:0 "We value learning, not only for the knowledge, but for the process itself. This makes our leaders more able to learn from their experiences."
+tr_est_academy_3_delayed:0 "We value learning. Not just for the knowledge itself, but also for the process by which we learn. A true leader learns as much from failure as they do success."
 
 tr_est_academy_4:0 "Towers of Ivory"
 tr_est_academy_4_desc:0 "Increase the amount of £engineering  §YEngineering§!, £physics  §YPhysics§!, and £society  §YSociety§! research produced by §YResearchers§! by §G1§!."
-tr_est_academy_4_delayed:0 "Those that have reached the top of the academic ladder are given unlimited resources in their own pursuits of new knowledge. In their towers of ivory they are free to do research without interference from the outside."
+tr_est_academy_4_delayed:0 "Cutting-edge research is best left to the experts. In their towers of ivory, our scientists are free to study, experiment, and develop without outside interference."
 
 tr_est_academy_5:0 "Military Schools"
-tr_est_academy_5_desc:0 "§YArmy Starting Experiance§! and §YShip Starting Experiance§! increased by §G+100§!. In addition, the §YStarting Level§! of all our §YAdmirals§! and §YGenerals§! is increased by §Y1§!."
-tr_est_academy_5_delayed:0 "By ensuring a thorough basic education for all our military personel we can ensure that both our navies and armies can operate at maximum efficency."
+tr_est_academy_5_desc:0 "§YArmy Starting Experience§! and §YShip Starting Experience§! increased by §G+100§!. In addition, the §YStarting Level§! of all our §YAdmirals§! and §YGenerals§! is increased by §Y1§!."
+tr_est_academy_5_delayed:0 "Our empire firmly believes that only an educated military can truly operate at maximum efficency."
 
 tr_est_academy_finish:0 "Academy Traditions finished"
 tr_est_academy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_academy_adopt$ will allow leaders to upgrade one of their traits whenever they reach skill level §Y5§!. The upgraded trait is twice as good as the normal one."
@@ -1357,7 +1357,7 @@ tr_est_militarism_1_robots_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! reduc
 tr_est_militarism_1_delayed:0 "Everyone may be drafted into our armies. It is considered a citizen's duty to serve our armed force. Even for those that go on to other professions it is a good experience to have served in the disciplined structure of our military."
 
 tr_est_militarism_2:0 "Reform Army Hierarchies"
-tr_est_militarism_2_desc:0 "§YGeneral Skills§! increased by §Y2§!, §YGeneral Recruitment Cost§! reduced by §G-50%§! and §YArmy Experiance Gain§! increased by §G+25%§!."
+tr_est_militarism_2_desc:0 "§YGeneral Skills§! increased by §Y2§!, §YGeneral Recruitment Cost§! reduced by §G-50%§! and §YArmy experience Gain§! increased by §G+25%§!."
 tr_est_militarism_2_delayed:0 "Our army is still organized as it was before we left our solar system. Now the military is dominated by the interstellar fleet and the army is primarily used to control and invade planets. We must reform our army to better fit this new role."
 
 tr_est_militarism_3:0 "The Grand Armada"
@@ -1370,7 +1370,7 @@ tr_est_militarism_4_AI_desc:0 "§Y$MOD_ARMY_DEFENSE_DAMAGE_MULT$§! and §Y$MOD_
 tr_est_militarism_4_delayed:0 "Only the most skilled besieger would be able to conquer one of our fortress worlds. These planets contains several layers of the most advanced defences we are able to produce and they guard some of the most important locations within our empire."
 
 tr_est_militarism_5:0 "Prestige of the Admiralty"
-tr_est_militarism_5_desc:0 "§YLeader Experience Gain§! increased by §G+25%§! for all of our admirals and §YShip Experiance Gain§! increased by §G+25%§!."
+tr_est_militarism_5_desc:0 "§YLeader Experience Gain§! increased by §G+25%§! for all of our admirals and §YShip experience Gain§! increased by §G+25%§!."
 tr_est_militarism_5_delayed:0 "The admirals of the navy is some of the most respected individuals in our society. They hold positions of great influence, not only in the military, but also in the society as a whole."
 
 tr_est_militarism_finish:0 "Militarism Traditions finished"
@@ -1384,7 +1384,7 @@ tr_est_might_adopt:0 "Might Traditions"
 tr_est_might_adopt_desc:0 "$tradition_est_might_desc$\n\n$tr_est_militarism_adopt_effect$\n\n$tr_est_might_finish_effect$"
 
 tr_est_might_1:0 "Natural Warriors"
-tr_est_might_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! reduced by §G-33%§! and §YArmy Experiance Gain§! increased by §G+25%§!. In addition, every £pop  §YPop§! on our planet will generate a special emergency army."
+tr_est_might_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! reduced by §G-33%§! and §YArmy experience Gain§! increased by §G+25%§!. In addition, every £pop  §YPop§! on our planet will generate a special emergency army."
 tr_est_might_1_delayed:0 "The warrior instinct runs throughout all of our drones, when the time comes to fight each one of them will be ready."
 
 tr_est_might_1_machines:0 "$tr_est_might_1$"
@@ -1400,7 +1400,7 @@ tr_est_might_2_delayed:0 "Our military tactics seems unorthodox to the mortals o
 # Fourth tradition is the same as militarism, Fortress Worlds.
 
 tr_est_might_5:0 "Warsense"
-tr_est_might_5_desc:0 "§YLeader Experience Gain§! increased by §G+25%§! for all of our admirals and §YShip Experiance Gain§! increased by §G+25%§!."
+tr_est_might_5_desc:0 "§YLeader Experience Gain§! increased by §G+25%§! for all of our admirals and §YShip experience Gain§! increased by §G+25%§!."
 tr_est_might_5_delayed:0 "We have a natural sense for war, far surpassing that of any mortal soul."
 
 tr_est_might_finish:0 "Might Traditions finished"
