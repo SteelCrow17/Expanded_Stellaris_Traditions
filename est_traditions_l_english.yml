@@ -35,39 +35,39 @@ tr_est_academy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est
 ### Swap - Shroudborn ###
 
 tradition_est_shroudborn:0 "Shroudborn"
-tradition_est_shroudborn_desc:0 "We are perhaps the most powerful psionic being in the galaxy. Mortal psionics who make contacts with us die or go mad."
+tradition_est_shroudborn_desc:0 "We are, perhaps, the most powerful psionic beings in the galaxy. Mortals who attempt direct contact with us either go mad, or die."
 tr_est_shroudborn_adopt:0 "Shroudborn Traditions"
 tr_est_shroudborn_adopt_desc:0 "$tradition_est_shroudborn_desc$\n\n$tr_est_shroudborn_adopt_effect$\n\n$tr_est_shroudborn_finish_effect$"
 tr_est_shroudborn_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£unity  §YUnity§! output is increased by §G+10%§!."
 
 tr_est_shroudborn_1:0 "Intrusive Mind"
 tr_est_shroudborn_1_desc:0 "§Y$MOD_SHIP_EVASION_MULT$§! increased by §G+10%§!."
-tr_est_shroudborn_1_delayed:0 "We are able to intrude into the minds of mortals, reading their thoughts and predicting their actions."
+tr_est_shroudborn_1_delayed:0 "Our empire's ship navigators are specially trained to psionically predict enemy tactics. To them, the intentions of the enemy are as open books, waiting to be read."
 
 tr_est_shroudborn_2:0 "Mind Suppression"
-tr_est_shroudborn_2_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§! increased by §G+15%§!. In addition, §YStarbase Influence Cost§! and §YClaim Influence Cost§! is increased by §R+15%§! for all neighbouring mortal empires (empires which we have a federation or defensive pact with, or which are our subjects are unaffected)."
-tr_est_shroudborn_2_delayed:0 "As we reach into the mortal minds we are able to dull their thoughts and suppress their feelings, reducing their ambitions or will to fight."
+tr_est_shroudborn_2_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§! increased by §G+15%§!. In addition, §YStarbase Influence Cost§! and §YClaim Influence Cost§! is increased by §R+15%§! for all neighbouring mortal empires. Empires with which we have a federation, defensive pact, or are our subjects are unaffected."
+tr_est_shroudborn_2_delayed:0 "We reach into the mortal mind of the enemy, turning their clarity to doubt, their hope to despair."
 tr_est_shroudborn_2_passive_AI_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§! increased by §G+30%§!."
 
 tr_est_shroudborn_3:0 "Everwatcher"
 tr_est_shroudborn_3_desc:0 "§YPlanet Sensor Range§! increased by §Y2§!."
-tr_est_shroudborn_3_delayed:0 "Throughout the galaxy, we are always present, watching the passing of time and lives."
+tr_est_shroudborn_3_delayed:0 "Where our empire resides, all is observed. Nothing escapes our watchful gaze."
 
 tr_est_shroudborn_4:0 "Seventh Sense"
 tr_est_shroudborn_4_desc:0 "§YAnomaly Discovery Chance§! is increased by §G+10%§! and §YSurvey Speed§! is increased by §G+20%§!."
-tr_est_shroudborn_4_delayed:0 "Through our connection to the Shroud we have developed a seventh sense for the state of the galaxy, sensing thing we normally wouldn’t."
+tr_est_shroudborn_4_delayed:0 "The Shroud grants our people a seventh sense for things out-of-place. As we explore the galaxy, no stone shall be left unturned."
 
 tr_est_shroudborn_5:0 "Power Manifestation"
 tr_est_shroudborn_5_desc:0 "§Y$MOD_SHIP_SHIELD_HP_MULT$§! is increased by §G+15%§! and §YEnergy Weapon Damage§! is increased by §G+15%§!."
-tr_est_shroudborn_5_delayed:0 "So powerful is our mind that we are able to manifest it in the physical world, increasing the power of our ships weapons and defences."
+tr_est_shroudborn_5_delayed:0 "So powerful is our will that we are able to manifest it in the physical world, mentally amplifying both the power of our ships' energy weapons and the resiliency of their shields."
 
 tr_est_shroudborn_finish:0 "Shroudborn Traditions finished"
-tr_est_shroudborn_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_shroudborn_adopt$ increases §YLeader Experience Gain§! increased by §G+25%§!."
+tr_est_shroudborn_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_shroudborn_adopt$ increases §YLeader Experience Gain§! by §G+25%§!."
 
 ### Swap - Hacking ###
 
 tradition_est_hacking:0 "Hacking"
-tradition_est_hacking_desc:0 "We are agile, able to enter the computer system of other empires and alter them to our likings."
+tradition_est_hacking_desc:0 "Our enemies' critical systems may as well be defended by only a door with no lock, standing ajar."
 tr_est_hacking_adopt:0 "Hacking Traditions"
 tr_est_hacking_adopt_desc:0 "$tradition_est_hacking_desc$\n\n$tr_est_hacking_adopt_effect$\n\n$tr_est_hacking_finish_effect$"
 tr_est_hacking_adopt_terminator:0 "Hacking Traditions"
@@ -76,32 +76,32 @@ tr_est_hacking_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YResearch Speed (Com
 
 tr_est_hacking_1:0 "System Manipulation"
 tr_est_hacking_1_desc:0 "§Y$MOD_SHIP_EVASION_MULT$§! increased by §G+10%§!."
-tr_est_hacking_1_delayed:0 "By carefully manipulating the targeting systems of enemy ships we can reduce their capacity to successfully target our ships in battle."
+tr_est_hacking_1_delayed:0 "By carefully manipulating the targeting systems of enemy ships, we can reduce their ability to successfully target our ships in battle."
 
 tr_est_hacking_2:0 "Communication Disruption"
-tr_est_hacking_2_desc:0 "§YPlanet Sensor Range§! and §YShip§! §YSensor Range§! is reduced by §R1§! and §YStarbase Influence Cost§! is increased by §R+25%§! for all neighbouring mortal empires (empires which we have a federation or defensive pact with, or which are our subjects are unaffected)."
-tr_est_hacking_2_delayed:0 "We can disrupt foreign communications systems, reducing our neighbour’s ability to efficiently communicate within their empire."
+tr_est_hacking_2_desc:0 "§YPlanet Sensor Range§! and §YShip§! §YSensor Range§! is reduced by §R1§! and §YStarbase Influence Cost§! is increased by §R+25%§! for all neighbouring mortal empires. Empires with which we have a federation, defensive pact, or are our subjects are unaffected."
+tr_est_hacking_2_delayed:0 "Our highly-trained operators disrupt the systems of our enemies, reducing their ability to gather intelligence on the regions around their planets."
 tr_est_hacking_2_passive_AI_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§! increased by §G+30%§!."
 
 tr_est_hacking_3:0 "Spyware"
 tr_est_hacking_3_desc:0 "§YPlanet Sensor Range§! increased by §Y2§!."
-tr_est_hacking_3_delayed:0 "We can hi-jack the surveillance and observation systems of other empires, using them to get a better idea of the space which surrounds our empire."
+tr_est_hacking_3_delayed:0 "All ships, regardless of origin or purpose, are infected with spyware upon entry to our empire. They will be our eyes and ears, inside or outside of our borders."
 
 tr_est_hacking_4:0 "Malware"
 tr_est_hacking_4_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§! is reduced by §R-10%§! and §YBuilding Upkeep§! is increased by §R+15%§! for all rival empires."
-tr_est_hacking_4_delayed:0 "By performing harmful attacks on our rivals computer systems we can reduce the efficiency with which they run their empires."
+tr_est_hacking_4_delayed:0 "Our specially-crafted software infects our rivals' computer systems, harming the efficiency with which they run their empires."
 
 tr_est_hacking_4_terminator:0 "$tr_est_hacking_4$"
 tr_est_hacking_4_terminator_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§! is reduced by §R-10%§! and §YBuilding Upkeep§! is increased by §R+15%§! for all other empires."
-tr_est_hacking_4_terminator_delayed:0 "By performing harmful attacks on others computer systems we can reduce the efficiency with which they run their empires."
+tr_est_hacking_4_terminator_delayed:0 "Our specially-crafted software infects our rivals' computer systems, harming the efficiency with which they run their empires."
 
 tr_est_hacking_4_passive_AI:0 "Malware"
 tr_est_hacking_4_passive_AI_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§! increased by §G+5%§!."
-tr_est_hacking_4_passive_AI_delayed:0 "By performing harmful attacks on our rivals computer systems we can reduce the efficiency with which they run their empires."
+tr_est_hacking_4_passive_AI_delayed:0 "Our specially-crafted software infects our rivals' computer systems, harming the efficiency with which they run their empires."
 
 tr_est_hacking_5:0 "Database Mining"
 tr_est_hacking_5_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§! is increased by §G+10%§!."
-tr_est_hacking_5_delayed:0 "By mining the databases of other empires we can find valuable information that we can use in our own research projects."
+tr_est_hacking_5_delayed:0 "Our own research efforts benefit greatly from the scientific databases of other empires, whether they are aware of it or not."
 
 tr_est_hacking_finish:0 "Hacking Traditions finished"
 tr_est_hacking_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_hacking_adopt$ increases £influence  §YInfluence Gain§! from §YRivals§! by §G+30%§!."
