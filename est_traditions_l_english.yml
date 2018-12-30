@@ -7,26 +7,26 @@ tradition_est_academy:0 "Academy"
 tradition_est_academy_desc:0 "Academies, schools, and universities are spread across our empire and those that wish to reach the top do so through their intricate hierarchies."
 tr_est_academy_adopt:0 "Academy Traditions"
 tr_est_academy_adopt_desc:0 "$tradition_est_academy_desc$\n\n$tr_est_academy_adopt_effect$\n\n$tr_est_academy_finish_effect$"
-tr_est_academy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YLeader Upkeep§! reduced by §G-15%§!."
+tr_est_academy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nProvide §Y1§! additional £job_researcher£ §Y$job_researcher$ Job§! on each planet."
 
 tr_est_academy_1:0 "Public Education"
 tr_est_academy_1_desc:0 "§YEmpire Leader Pool Size§! increased by §Y3§!."
 tr_est_academy_1_delayed:0 "Education is a right which belongs to all. Through public education, all citizens are ensured the foundational knowledge needed to live prosperous lives."
 
 tr_est_academy_2:0 "Mandatory Higher Education"
-tr_est_academy_2_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§! increased by §Y1§!."
+tr_est_academy_2_desc:0 "Increase the §YStarting Level§! of all leaders by §Y1§!."
 tr_est_academy_2_delayed:0 "By mandating a higher education for all citizens, we can ensure that our leaders are capable of executing their roles with deft precision."
 
 tr_est_academy_3:0 "Learn, Unlearn, and Relearn"
-tr_est_academy_3_desc:0 "§YLeader Experience Gain§! increased by §G+20%§!."
+tr_est_academy_3_desc:0 "§YLeader Experience Gain§! increased by §G+25%§!."
 tr_est_academy_3_delayed:0 "We value learning. Not just for the knowledge itself, but also for the process by which we learn. A true leader learns as much from failure as they do success."
 
 tr_est_academy_4:0 "Towers of Ivory"
-tr_est_academy_4_desc:0 "Increase the amount of £engineering  §YEngineering§!, £physics  §YPhysics§!, and £society  §YSociety§! research produced by §YResearchers§! by §G1§!."
-tr_est_academy_4_delayed:0 "Cutting-edge research is best left to the experts. In their towers of ivory, our scientists are free to study, experiment, and develop without outside interference."
+tr_est_academy_4_desc:0 "Provide §Y1§! £job_head_researcher£ §Y$job_head_researcher$ Job§! on planets with a £building  §Y$building_research_lab_3$§!."
+tr_est_academy_4_delayed:0 "Cutting-edge research is best left to the experts. In their ivory towers, our scientists are free to study, experiment, and develop without outside interference."
 
 tr_est_academy_5:0 "Military Schools"
-tr_est_academy_5_desc:0 "§YArmy Starting Experience§! and §YShip Starting Experience§! increased by §G+100§!. In addition, the §YStarting Level§! of all our §YAdmirals§! and §YGenerals§! is increased by §Y1§!."
+tr_est_academy_5_desc:0 "§YArmy Starting Experience§! and §YShip Starting Experience§! increased by §G+200§!. In addition, §YAdmirals§! and §YGenerals§! maximum §YSkill Levels§! increased by §Y1§!."
 tr_est_academy_5_delayed:0 "Our empire firmly believes that only an educated military can truly operate at maximum efficency."
 
 tr_est_academy_finish:0 "Academy Traditions finished"
@@ -111,14 +111,14 @@ tr_est_hacking_finish_terminator_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting 
 # ADMINISTRATUM
 ################################################################
 tradition_est_administratum:0 "Administratum"
-tradition_est_administratum_desc:0 "Legions of clerks and bureaucrats oversee our empire. They ensure that it works as decreed by our rulers."
+tradition_est_administratum_desc:0 "A legion of clerks and bureaucrats oversee the empire, executing the will of our leaders with dutiful persistence."
 tr_est_administratum_adopt:0 "Administratum Traditions"
 tr_est_administratum_adopt_desc:0 "$tradition_est_administratum_desc$\n\n$tr_est_administratum_adopt_effect$\n\n$tr_est_administratum_finish_effect$"
-tr_est_administratum_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YLeader Upkeep§! reduced by §G-20%§!."
+tr_est_administratum_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YAdministrative Capacity§! increased by §G20§!."
 
 tr_est_administratum_1:0 "Streamlined Recruitment Processes"
-tr_est_administratum_1_desc:0 "§Y$MOD_LEADER_COST$§! reduced by §G-20%§!."
-tr_est_administratum_1_delayed:0 "Due to the vast number of recruits needed for our empire, we cannot retain our old recruitment process. They need to be streamlined in such a way that every potential recruit can be processed with a minimum of manual work from our recruiters."
+tr_est_administratum_1_desc:0 "§Y$MOD_LEADER_COST$§! reduced by §G-25%§!."
+tr_est_administratum_1_delayed:0 "A series of standardised aptitude tests, questionnaires, and interviews are implemented to reduce the overhead necessary to find the best candidate for leadership roles in service to the empire."
 
 tr_est_administratum_2:0 "Meritocratic Promotion Policies"
 tr_est_administratum_2_desc:0 "§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§! increased by §Y1§!. In addition, all §YGovernors§! start with an additional trait."
@@ -129,7 +129,7 @@ tr_est_administratum_3_desc:0 "§YShip Build Speed§! increased by §G+10%§!, �
 tr_est_administratum_3_delayed:0 "The expanding bureaucracy threatens to slow down the efficiency of our administration. By employing new, improved, bureaucratic techniques we ensure that this does not happen."
 
 tr_est_administratum_4:0 "Standardized Planetary Administration"
-tr_est_administratum_4_desc:0 "Fully developed colonies with a §YSector Governor§! have their §YBuilding Cost§! and §YCrime§! reduced by §G-10%§!."
+tr_est_administratum_4_desc:0 "Fully developed colonies with a §YSector Governor§! have their §YDistrict Build Cost§! reduced by §G-25%§!."
 tr_est_administratum_4_delayed:0 "As we gain control of more planets, their local administrations are at risk of diverging. By instituting a standard template of planetary administration, we ensure similar governance on all our worlds."
 
 tr_est_administratum_5:0 "Bureau of Oversight"
@@ -145,7 +145,7 @@ tradition_est_omnipresence:0 "Omnipresence"
 tradition_est_omnipresence_desc:0 "We are one, yet we are everywhere. We are able to give our full attention to both the grand scheme of things, as well as the smallest action of the most insignificant of drones."
 tr_est_omnipresence_adopt:0 "Omnipresence Traditions"
 tr_est_omnipresence_adopt_desc:0 "$tradition_est_omnipresence_desc$\n\n$tr_est_omnipresence_adopt_effect$\n\n$tr_est_administratum_finish_effect$"
-tr_est_omnipresence_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_COST$§! reduced by §G-20%§!."
+tr_est_omnipresence_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YDeviancy§! reduced by §G-20%§!."
 
 tr_est_omnipresence_1:0 "Total Information Processing"
 tr_est_omnipresence_1_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§! increased by §Y1§!."
@@ -156,7 +156,7 @@ tr_est_omnipresence_2_desc:0 "§YShip Build Speed§! increased by §G+10%§!, §
 tr_est_omnipresence_2_delayed:0 "Rather than drone behaviour being largely determined by reflexes we will take full control over each individual drone, thus maximizing their efficiency."
 
 tr_est_omnipresence_3:0 "Increased Capacity"
-tr_est_omnipresence_3_desc:0 "§YLeader Upkeep§! reduced by §G-20%§!."
+tr_est_omnipresence_3_desc:0 "§YAdministrative Capacity§! increased by §G20§!."
 tr_est_omnipresence_3_delayed:0 "As our we expand throughout the galaxy our min needs to expand as well to be able to accommodate the expanding number of autonomous drones."
 
 tr_est_omnipresence_4:0 "Simultaneous Control"
@@ -183,7 +183,7 @@ tr_est_aesthetics_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GOVERNM
 tr_est_aesthetics_adopt_spiritualist_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! increased by §G+15%§! on planets with the £building  §Y$building_temple$§! building chain."
 
 tr_est_aesthetics_1:0 "Works of Literature"
-tr_est_aesthetics_1_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§! increased by §G+10%§!."
+tr_est_aesthetics_1_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§! increased by §G+15%§!."
 tr_est_aesthetics_1_delayed:0 "The works of our writers and poets will enlighten billions of souls over thousands of years. Once a piece is finished, it will last an eternity, it will make the galaxy a better place everyday."
 
 tr_est_aesthetics_2:0 "Guild of Artists"
@@ -191,7 +191,7 @@ tr_est_aesthetics_2_desc:0 "Provides §Y1§! §YCulture Worker Job§! and §Y1§
 tr_est_aesthetics_2_delayed:0 "The esteemed guild of artists collects the most skilled in the empire, they lend themselves to the greater good."
 
 tr_est_aesthetics_3:0 "Inspiration of Awe"
-tr_est_aesthetics_3_desc:0 "Foreign Empire £opinion  §YOpinion§! is increased by §G+10§! and §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! increased by §G+5%§!."
+tr_est_aesthetics_3_desc:0 "Foreign Empire £opinion  §YOpinion§! is increased by §G+15§! and §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! increased by §G+5%§!."
 tr_est_aesthetics_3_delayed:0 "Foreign Diplomats that visit our empire are struck with awe at the sight of our buildings. They marvel at the beauty that covers every hall they walk through. They then bring the news of the glory of our civilization back to their own empires."
 
 tr_est_aesthetics_3_xenophobe:0 "The Art of War"
@@ -203,7 +203,7 @@ tr_est_aesthetics_3_IP_desc:0 "Our £unity  §YUnity§! output is increased by �
 tr_est_aesthetics_3_IP_delayed:0 "We care little for the surrounding galaxy, in the tranquillity of our existence we have only one goal; the perfection of artistic beauty.""
 
 tr_est_aesthetics_4:0 "Grand Architecture"
-tr_est_aesthetics_4_desc:0 "§YHousing§! is increased by §G+15%§!."
+tr_est_aesthetics_4_desc:0 "Planets receive §Y1§! §Y$AMENITT§! for each £building  §YBuilding§!."
 tr_est_aesthetics_4_delayed:0 "Our buildings will be our greatest legacy, they will speak of our greatness long after we are gone."
 
 tr_est_aesthetics_5:0 "Galactic Wonders"
@@ -211,7 +211,7 @@ tr_est_aesthetics_5_desc:0 "Enables §Y5§! expensive empire unique wonder build
 tr_est_aesthetics_5_delayed:0 "Our empire is home to some of the greatest wonders in the galaxy. Their greatness is known even to those on the most remote of worlds in this galaxy."
 
 tr_est_aesthetics_finish:0 "Aesthetics Traditions finished"
-tr_est_aesthetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_aesthetics_adopt$ Increases our £unity  §YUnity§! output by §G+10%§!."
+tr_est_aesthetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_aesthetics_adopt$ Increases the £society  §YSociety Research§! output by £culture_workers  §YCulture Workers§! by §Y2§!."
 
 ### Swap - Age ###
 tradition_est_age:0 "Venerability"
@@ -357,11 +357,7 @@ tradition_est_the_swarm_desc:0 "Our name is Legion, for we are many"
 
 tr_est_the_swarm_adopt:0 "Swarm Traditions"
 tr_est_the_swarm_adopt_desc:0 "$tradition_est_the_swarm_desc$\n\n$tr_est_the_swarm_adopt_effect$\n\n$tr_est_the_swarm_finish_effect$"
-tr_est_the_swarm_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_CONSUMER_GOODS_MULT$§! and §Y$MOD_POP_FOOD_REQ_MULT$§! is reduced by §G-10%§!."
-
-tr_est_the_swarm_adopt_machines:0 "$tr_est_the_swarm_adopt$"
-tr_est_the_swarm_adopt_machines_desc:0 "$tradition_est_the_swarm_desc$\n\n$tr_est_the_swarm_adopt_machines_effect$\n\n$tr_est_the_swarm_finish_effect$"
-tr_est_the_swarm_adopt_machines_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_CONSUMER_GOODS_MULT$§! and §Y$MOD_POP_ROBOT_UPKEEP_MULT$§! is reduced by §G-10%§!."
+tr_est_the_swarm_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_planet_pops_upkeep_mult$§! reduced by §G-10%§!."
 
 tr_est_the_swarm_1:0 "Hordes"
 #tr_est_the_swarm_1_desc:0 "Whenever an army is built, generate an additional identical army. §YGrowth Speed§! is increased by §G+5%§!."
@@ -369,7 +365,7 @@ tr_est_the_swarm_1_desc:0 "§YArmy Build Speed§! increased by §G+50%§! and §
 tr_est_the_swarm_1_delayed:0 "The number of drones under our control far outnumbers the populations of any mortal empire. So many are they that when our armies approach the ground seems to move. "
 
 tr_est_the_swarm_1_machines:0 "Hordes"
-tr_est_the_swarm_1_machines_desc:0 "§YArmy Build Speed§! increased by §G+50%§! and §YRobot Build Speed§! increased by §G+10%§!."
+tr_est_the_swarm_1_machines_desc:0 "§YArmy Build Speed§! increased by §G+50%§! and §YRobot Assembly Speed§! increased by §G+10%§!."
 tr_est_the_swarm_1_machines_delayed:0 "The number of drones under our control far outnumbers the populations of any mortal empire. So many are they that when our armies approach the ground seems to move. "
 
 tr_est_the_swarm_2:0 "Overwhelming Numbers"
@@ -377,7 +373,7 @@ tr_est_the_swarm_2_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! is increased by §
 tr_est_the_swarm_2_delayed:0 "Our primary naval tactics is to overwhelm the enemy with superior numbers. We will send wave after wave with ships, until they have lost all capacity to fight."
 
 tr_est_the_swarm_3:0 "Swarming Fleets"
-tr_est_the_swarm_3_desc:0 "§YCorvette Build Speed§! increased by §G+50%§! and §YCorvette Build Cost§! reduced by §G-10%§!."
+tr_est_the_swarm_3_desc:0 "§YCorvette Build Speed§! increased by §G+100%§! and §YCorvette Build Cost§! reduced by §G-10%§!."
 tr_est_the_swarm_3_delayed:0 "Our fleets consists of large numbers of smaller vessels. While they lack the quality of larger ships, if present in sufficient quantity they can easily destroy any fleet. "
 
 tr_est_the_swarm_4:0 "Population Explosion"
@@ -619,8 +615,15 @@ tradition_est_faith_desc:0 "The galaxy is vast and full of wonders but we must n
 tr_est_faith_adopt:0 "Faith Traditions"
 tr_est_faith_adopt_not_spiritualist:0 "$tr_est_faith_adopt$"
 tr_est_faith_adopt_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_effect$"
-tr_est_faith_adopt_not_spiritualist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_not_spiritualist_effect$"
-tr_est_faith_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! increased by §G+20%§!."
+tr_est_faith_adopt_authoritarian_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_authoritarian_effect$"
+tr_est_faith_adopt_egalitarian_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_egalitarian_effect$"
+tr_est_faith_adopt_materialist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_materialist_effect$"
+tr_est_faith_adopt_spiritualist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_spiritualist_effect$"
+tr_est_faith_adopt_militarist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_militarist_effect$"
+tr_est_faith_adopt_pacifist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_pacifist_effect$"
+tr_est_faith_adopt_xenophile_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_xenophile_effect$"
+tr_est_faith_adopt_xenophobe_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_xenophobe_effect$"
+tr_est_faith_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nThe £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pops  §YPops§! is increased by §G+5%§!"
 
 tr_est_faith_1:0 "One Faith"
 tr_est_faith_1_desc:0 "Our £unity  §YUnity§! output is increased by §G+10%§!."
@@ -630,10 +633,12 @@ tr_est_faith_2:0 "Holy Scripts"
 tr_est_faith_2_desc:0 "§Y$MOD_PLANET_STABILITY_ADD$§! is increased by §G5§! on all our planets."
 tr_est_faith_2_delayed:0 "Holy Scripts that contains the core of our belief shall be written and distributed to all our citizens."
 
-tr_est_faith_3:0 "Places of Worship"
-tr_est_faith_3_desc:0 "§YCulture Workers§! produce an additional §Y1§! £unity  §YUnity§!."
-tr_est_faith_3_spiritualist_desc:0 "§YPriests§! produce an additional §Y1§! £unity  §YUnity§!." 
-tr_est_faith_3_delayed:0 "Our citizen regularly visits various places of worship. There they can find inner peace, hope, or guidance in their faith."
+#tr_est_faith_3:0 "Places of Worship"
+#tr_est_faith_3_delayed:0 "Our citizen regularly visits various places of worship. There they can find inner peace, hope, or guidance in their faith."
+tr_est_faith_3:0 "The Clergy"
+tr_est_faith_3_desc:0 "Provide §Y1§! £job_priest£ §Y$job_priest$ Job§! per §Y25§! £pop£ Pops on a planet."
+tr_est_faith_3_spiritualist_desc:0 "§Y$job_priest$§! produce §Y1§! additional £unity  §YUnity§! and cosnume §Y1§! less £consumer_goods  §YConsumer Goods§!." 
+tr_est_faith_3_delayed:0 "Foremost servants of the faith, the clergy, provides our citizen with inner peace, hope, and guidance in their faith."
 
 tr_est_faith_4:0 "Preachers"
 tr_est_faith_4_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§! increased by §G+25%§!."
@@ -644,9 +649,15 @@ tr_est_faith_5_desc:0 "§Y$MOD_ARMY_MORALE$§! increased by §G+25%§! and §Y$M
 tr_est_faith_5_delayed:0 "In war our cause is justified by the divines. Our warriors stand ready to die for their belief."
 
 tr_est_faith_finish:0 "Faith Traditions finished"
-tr_est_faith_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ increases §Y$mod_pop_ethic_spiritualist_attraction_mult$§! by §G+10%§! and the £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pops  §YPops§! is increased by §G+5%§!."
-tr_est_faith_finish_not_spiritualist:0 "$tr_est_faith_finish$"
-tr_est_faith_finish_not_spiritualist_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ increases §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! by §G+5%§! and the £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pops  §YPops§! is increased by §G+5%§!."
+tr_est_faith_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ We may select an §YEthic§! to which the §YEthics Attraction§! is increased by §G+50%§!."
+tr_est_faith_finish_authoritarian_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ increases §Y$mod_pop_ethic_authoritarian_attraction_mult$§! by §G+50%§!."
+tr_est_faith_finish_egalitarian_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ increases §Y$mod_pop_ethic_egalitarian_attraction_mult$§! by §G+50%§!."
+tr_est_faith_finish_materialist_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ increases §Y$mod_pop_ethic_materialist_attraction_mult$§! by §G+50%§!."
+tr_est_faith_finish_spiritualist_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ increases §Y$mod_pop_ethic_spiritualist_attraction_mult$§! by §G+50%§!."
+tr_est_faith_finish_militarist_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ increases §Y$mod_pop_ethic_militarist_attraction_mult$§! by §G+50%§!."
+tr_est_faith_finish_pacifist_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ increases §Y$mod_pop_ethic_pacifist_attraction_mult$§! by §G+50%§!."
+tr_est_faith_finish_xenophile_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ increases §Y$mod_pop_ethic_xenophile_attraction_mult$§! by §G+50%§!."
+tr_est_faith_finish_xenophobe_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_faith_adopt$ increases §Y$mod_pop_ethic_xenophobe_attraction_mult$§! by §G+50%§!."
 
 ### Swap - Purposefulness ###
 tradition_est_purposefullness:0 "Purposefulness"
@@ -662,11 +673,8 @@ tr_est_purposefullness_1:0 "One Purpose"
 tr_est_purposefullness_1_delayed:0 "While our task is grand, we will set out to complete it without hesitation."
 
 tr_est_purposefullness_2:0 "The Means to Succeed"
-tr_est_purposefullness_2_desc:0 "§YCoordinator Drones§!  produce an additional §Y1§! £unity  §YUnity§!."
+tr_est_purposefullness_2_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§! increased by §G+20%§!."
 tr_est_purposefullness_2_delayed:0 "As we awoke in this galaxy we were not only given a purpose, but also the means to fulfil it."
-tr_est_purposefullness_2_machines:0 "The Means to Succeed"
-tr_est_purposefullness_2_machines_desc:0 "§YCoordinator Drones§!  produce an additional §Y1§! £unity  §YUnity§!."
-tr_est_purposefullness_2_machines_delayed:0 "As we awoke in this galaxy we were not only given a purpose, but also the means to fulfil it."
 
 tr_est_purposefullness_3:0 "The Option of Violence"
 tr_est_purposefullness_3_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§! increased by §G+20%§! and §Y$MOD_SHIP_WEAPON_DAMAGE$§! increased by §G+5%§!."
@@ -1102,7 +1110,7 @@ tr_est_proselytism_4_desc:0 "Increase §YEthic Attraction§! towards our §YEthi
 tr_est_proselytism_4_delayed:0 "The Ordo Patria is tasked with ensuring that all our citizens show proper love for our homeland. Its representatives will also travel to our subjects and ensure that they too follow our ideals."
 
 tr_est_proselytism_4_alt:0 "$tr_est_proselytism_4$"
-tr_est_proselytism_4_alt_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§! increased by §G+15%§! and §Y$MOD_PLANET_UNREST_ADD$§! is reduced by §G-15%§! on all our planets."
+tr_est_proselytism_4_alt_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§! increased by §G+15%§! and §Y$MOD_PLANET_CRIME_ADD$§! is reduced by §G-15%§! on all our planets."
 tr_est_proselytism_4_alt_delayed:0 "$tr_est_proselytism_4_delayed$"
 
 tr_est_proselytism_5:0 "Exceptionalism"
@@ -1110,7 +1118,7 @@ tr_est_proselytism_5_desc:0 "Increase The £happiness  §Y$MOD_POP_HAPPINESS$§!
 tr_est_proselytism_5_delayed:0 "Our empire is truly superior to that of others, this we know. All but the misguided other empires in the galaxy should strive to be included in ours, or to emulate it. Eventually we will show the misguided their inferiority."
 
 tr_est_proselytism_finish:0 "Proselytism Traditions finished"
-tr_est_proselytism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_proselytism_adopt$ increases §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! by §G+15%§!."
+tr_est_proselytism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_proselytism_adopt$ will give our planets §Y1§! £job_est_inquisitor£ §Y$job_est_inquisitor$ Job§! per §Y30§!  £pop£ Pops (gives a slight bonus to §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! and §YCrime Reduction§!, as well as producing a small amount of £unity  §YUnity§!.). "
 
 ################################################################
 # JUSTICE
@@ -1126,7 +1134,7 @@ tr_est_justice_1_desc:0 "The £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pop
 tr_est_justice_1_delayed:0 "The law stands above all. Everyone, whoever they might or might not be, will answer to it. To their class, standing or wealth, the law is blind."
 
 tr_est_justice_2:0 "Adeptus Arbites"
-tr_est_justice_2_desc:0 "§YPiracy Risk§! increased by §G-25%§! and §YCrime§! is reduced by §G-10%§! on all our planets."
+tr_est_justice_2_desc:0 "§YPiracy Growth§! reduced by §G-33%§! and §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§! increased by §G10§!."
 tr_est_justice_2_delayed:0 "Representatives of the order of the Adeptus Arbites travel through our empire. These representatives of the law have full right to deliver full justice on the worlds at the fringe of our empire, where it might otherwise have been absent."
 
 tr_est_justice_3:0 "Supreme Court"
@@ -1134,7 +1142,7 @@ tr_est_justice_3_desc:0 "§YEdict Length§! increased by §G+10%§! and §YEdict
 tr_est_justice_3_delayed:0 "The Supreme Court regulates the activities of our government to ensure that their actions does not go against that of the laws the work under."
 
 tr_est_justice_4:0 "Constitution"
-tr_est_justice_4_desc:0 "£influence  §YInfluence Cap§! increased by §Y1000§!."
+tr_est_justice_4_desc:0 "£stability  §YStability§! increased by §G5§!."
 tr_est_justice_4_delayed:0 "Our constitution contains the most fundamental principles of our justice system. It regulates the ruling of our empire as well as the rights and responsibilities of its citizens."
 
 tr_est_justice_5:0 "Legal Perfection"
@@ -1142,7 +1150,7 @@ tr_est_justice_5_desc:0 "Our £influence  §YInfluence§! output is increased by
 tr_est_justice_5_delayed:0 "Through centuries we have perfected our legal codes. Now finally, the letter of the law and the spirit of the law is the same."
 
 tr_est_justice_finish:0 "Justice Traditions finished"
-tr_est_justice_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_justice_adopt$ increases our £unity  §YUnity§! output by §G+15%§! while we have at least §Y500§! stored £influence  §YInfluence§!."
+tr_est_justice_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_justice_adopt$ increases our £unity  §YUnity§! output by §G+15%§!/§G30%§! while we have at least §Y750§!/§Y1000§! stored £influence  §YInfluence§!."
 
 ### Swap - Destruction ###
 
@@ -1153,7 +1161,7 @@ tr_est_destruction_adopt_desc:0 "$tradition_est_destruction_desc$\n\n$tr_est_des
 tr_est_destruction_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! is increased by §G+20%§!."
 
 tr_est_destruction_1:0 "Task of Destruction"
-tr_est_destruction_1_desc:0 "Gain §Y5§! £influence  §YInfluence§! whenever we purge a £pop  §YPop§!."
+tr_est_destruction_1_desc:0 "Gain §Y2§! £influence  §YInfluence§! whenever we purge a £pop  §YPop§!."
 tr_est_destruction_1_delayed:0 "Every life we take is one step in the cleansing of this galaxy."
 
 tr_est_destruction_2:0 "Warborn"
@@ -1352,25 +1360,25 @@ tr_est_militarism_adopt_desc:0 "$tradition_est_militarism_desc$\n\n$tr_est_milit
 tr_est_militarism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nIncrease §Y$mod_planet_jobs_produces_mult$§! by §G+5%§! while we are at, or over, our §YNaval Capacity§!"
 
 tr_est_militarism_1:0 "Conscription"
-tr_est_militarism_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! reduced by §G-33%§! and §YShip Build Cost§! reduced by §G-5%§!."
-tr_est_militarism_1_robots_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! reduced by §G-40%§! and §YShip Build Cost§! reduced by §G-5%§!."
+tr_est_militarism_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! reduced by §G-25%§!. In addition, each planet gain §Y1§! £job_soldier£ §Y$job_soldier$ Job§! per §Y10§!  £pop£ Pops."
 tr_est_militarism_1_delayed:0 "Everyone may be drafted into our armies. It is considered a citizen's duty to serve our armed force. Even for those that go on to other professions it is a good experience to have served in the disciplined structure of our military."
 
 tr_est_militarism_2:0 "Reform Army Hierarchies"
-tr_est_militarism_2_desc:0 "§YGeneral Skills§! increased by §Y2§!, §YGeneral Recruitment Cost§! reduced by §G-50%§! and §YArmy experience Gain§! increased by §G+25%§!."
+tr_est_militarism_2_desc:0 "§YGeneral Skills§! increased by §Y2§!, §YGeneral Recruitment Cost§! reduced by §G-50%§! and §YArmy Experiance Gain§! increased by §G+50%§!."
 tr_est_militarism_2_delayed:0 "Our army is still organized as it was before we left our solar system. Now the military is dominated by the interstellar fleet and the army is primarily used to control and invade planets. We must reform our army to better fit this new role."
 
 tr_est_militarism_3:0 "The Grand Armada"
 tr_est_militarism_3_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! is increased by §G+10%§! and §YFleet Command Limit§! increased by §G+20%§!."
 tr_est_militarism_3_delayed:0 "§H§!We will put more resources into expanding our armada. As it becomes one of the greatest gatherings of ship ever seen it will be rightly feared throughout this galaxy."
 
-tr_est_militarism_4:0 "Fortress Worlds"
-tr_est_militarism_4_desc:0 "In addition, §Y$MOD_ARMY_DEFENSE_DAMAGE_MULT$§! and §Y$MOD_ARMY_DEFENSE_HEALTH_MULT$§! increased by §G+33%§!."
-tr_est_militarism_4_AI_desc:0 "§Y$MOD_ARMY_DEFENSE_DAMAGE_MULT$§! and §Y$MOD_ARMY_DEFENSE_HEALTH_MULT$§! increased by §G+40%§!."
-tr_est_militarism_4_delayed:0 "Only the most skilled besieger would be able to conquer one of our fortress worlds. These planets contains several layers of the most advanced defences we are able to produce and they guard some of the most important locations within our empire."
+#tr_est_militarism_4:0 "Fortress Worlds"
+#tr_est_militarism_4_delayed:0 "Only the most skilled besieger would be able to conquer one of our fortress worlds. These planets contains several layers of the most advanced defences we are able to produce and they guard some of the most important locations within our empire."
+r_est_militarism_4:0 "Master Arms Makers"
+tr_est_militarism_4_desc:0 "Reduce the §YSpecial Resource§! cost of §YShip Components§! by §G-25%§!."
+tr_est_militarism_4_delayed:0 "Our smiths produces some of the finests weapons and armors that can be found in ths galaxy. Their are few admirals that aren't envious of the quality of our fleets."
 
 tr_est_militarism_5:0 "Prestige of the Admiralty"
-tr_est_militarism_5_desc:0 "§YLeader Experience Gain§! increased by §G+25%§! for all of our admirals and §YShip experience Gain§! increased by §G+25%§!."
+tr_est_militarism_5_desc:0 "§YLeader Experience Gain§! increased by §G+25%§! for all of our admirals. In addition, we may maintain up to §G1§! §YAdmirals§! for free."
 tr_est_militarism_5_delayed:0 "The admirals of the navy is some of the most respected individuals in our society. They hold positions of great influence, not only in the military, but also in the society as a whole."
 
 tr_est_militarism_finish:0 "Militarism Traditions finished"
@@ -1384,7 +1392,7 @@ tr_est_might_adopt:0 "Might Traditions"
 tr_est_might_adopt_desc:0 "$tradition_est_might_desc$\n\n$tr_est_militarism_adopt_effect$\n\n$tr_est_might_finish_effect$"
 
 tr_est_might_1:0 "Natural Warriors"
-tr_est_might_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! reduced by §G-33%§! and §YArmy experience Gain§! increased by §G+25%§!. In addition, every £pop  §YPop§! on our planet will generate a special emergency army."
+tr_est_might_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! reduced by §G-33%§! and §YArmy Experiance Gain§! increased by §G+25%§!. In addition, each planet gain §Y1§! £job_warrior_drone£ §Y$job_warrior_drone$ Job§! per §Y10§!  £pop£ Pops."
 tr_est_might_1_delayed:0 "The warrior instinct runs throughout all of our drones, when the time comes to fight each one of them will be ready."
 
 tr_est_might_1_machines:0 "$tr_est_might_1$"
@@ -1400,7 +1408,7 @@ tr_est_might_2_delayed:0 "Our military tactics seems unorthodox to the mortals o
 # Fourth tradition is the same as militarism, Fortress Worlds.
 
 tr_est_might_5:0 "Warsense"
-tr_est_might_5_desc:0 "§YLeader Experience Gain§! increased by §G+25%§! for all of our admirals and §YShip experience Gain§! increased by §G+25%§!."
+tr_est_might_5_desc:0 "$tr_est_militarism_5_desc$"
 tr_est_might_5_delayed:0 "We have a natural sense for war, far surpassing that of any mortal soul."
 
 tr_est_might_finish:0 "Might Traditions finished"
@@ -1430,7 +1438,7 @@ tr_est_mysticism_2_delayed:0 "Secret facilities extracts the most valuable resou
 
 tr_est_mysticism_3:0 "Pursuit of the Forbidden Knowledge"
 tr_est_mysticism_3_desc:0 "§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! increased by §G+15%§!."
-tr_est_mysticism_3_psionics_desc:0 "§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! and Research Speed (Psionics) increased by §G+15%§!."
+tr_est_mysticism_3_psionics_desc:0 "§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! and §YResearch Speed (Psionics)§! increased by §G+15%§!."
 tr_est_mysticism_3_delayed:0 "Small collections of researchers gather in groups all over our realm to delve into topics that would often have been kept of limits in other empires."
 
 tr_est_mysticism_4:0 "Guild of Navigators"
@@ -1508,7 +1516,7 @@ tr_est_natural_1_desc:0 "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§! increased by §G+
 tr_est_natural_1_delayed:0 "Rather than adapting our environment to us, we have learnt to adapt ourselves to our environment."
 
 tr_est_natural_1_GC:0 "Frugality"
-tr_est_natural_1_GC_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§! decreased by §G-15%§!."
+tr_est_natural_1_GC_desc:0 "§YJobs Resource Consumption§! decreased by §G-10%§!."
 tr_est_natural_1_GC_delayed:0 "We must realize that the resources given to us by nature are limitless, to waste them would be unworthy of such a gift."
 
 #tr_est_natural_2:0 "As a Fish Swims in the Sea"
@@ -1516,7 +1524,7 @@ tr_est_natural_1_GC_delayed:0 "We must realize that the resources given to us by
 #tr_est_natural_2_delayed:0 "As a Fish Swims in the Sea our armies move through the wilds of our home worlds. Using nature as a cover and striking out from it at our opponent's moment of weakness. We are the true masters of guerrilla warfare."
 
 tr_est_natural_2:0 "Natural Riches"
-tr_est_natural_2_desc:0 "£food  §YFood§! output is increased by §G+15%§!."
+tr_est_natural_2_desc:0 "Generate §Y2§! random deposits on all our planets (also include new planets we acquire, a planet can only be affected once)."
 tr_est_natural_2_delayed:0 "The nature around us is rich in resources that can be utilized by those that knows where to find them."
 
 tr_est_natural_3:0 "One with Nature"
@@ -1524,15 +1532,15 @@ tr_est_natural_3_desc:0 "£blocker  §Y$MOD_PLANET_CLEAR_BLOCKER_COST_MULT$§! d
 tr_est_natural_3_delayed:0 "Rather than pushing nature away to make way for our society we have learnt to build within it, with minimal need to devastate the nature to make room for ourselves."
 
 tr_est_natural_3_hive:0 "Natural Integration"
-tr_est_natural_3_hive_desc:0 "§YBuilding Speed§! increases by §G+25%§! and reduces §YBuilding Upkeep§! by §G-10%§!."
+tr_est_natural_3_hive_desc:0 "Increase §YPlanet $mod_planet_max_districts_add$§! by §Y1§!."
 tr_est_natural_3_hive_delayed:0 "As we arrive on new worlds we should not strive to control its native ecology, rather we should try to integrate it into our mind, making it a part of us."
 
 tr_est_natural_3_machines:0 "Diametric Strength"
-tr_est_natural_3_machines_desc:0 "Receive §G33§! £influence  §YInfluence§! for each tile blocker on a planet we colonize."
+tr_est_natural_3_machines_desc:0 "Receive §G50§! £influence  §YInfluence§! for each tile blocker on a planet we colonize."
 tr_est_natural_3_machines_delayed:0 "Our essence is the very opposite of the nature around us. Yet we are united. The very contradiction in our union is what makes it strong."
 
 tr_est_natural_4:0 "Self-Sustaining"
-tr_est_natural_4_desc:0 "Our £food  §YFood§! output is increased by §G+15%§!."
+tr_est_natural_4_desc:0 "All our planets receive §Y1§! £job_farmer£ §Y$job_farmer$ Job§! per §Y10§!  £pop£ Pops. In additiona, £pop  §YPop Food Consumption§! is reduced by §G-10%§!."
 tr_est_natural_4_delayed:0 "Rather than solely depending on centralized food production most individuals on our worlds are to some extent self-sustaining. To some extent they can produce their own food."
 
 tr_est_natural_4_GC:0 "$tr_est_natural_3$"
@@ -1540,11 +1548,11 @@ tr_est_natural_4_GC_desc:0 "$tr_est_natural_3_desc$"
 tr_est_natural_4_GC_delayed:0 "$tr_est_natural_3_delayed$"
 
 tr_est_natural_5:0 "Non-Consumerism"
-tr_est_natural_5_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§! decreased by §G-15%§!."
+tr_est_natural_5_desc:0 "Reduce £pop  §YPop§! §YFood§!, §YConsumer Goods§!, §YHousing§!, and §YAmmenities§! usage by §G-5%§!."
 tr_est_natural_5_delayed:0 "While others value material things we are above such inferior behaviour."
 
 tr_est_natural_5_GC:0 "Preservation"
-tr_est_natural_5_GC_desc:0 "§HUnlocks Building:§! Preservation (Planet unique. Produces §Y9§! £unity  §YUnity§! and increase planet £society  §YSociety§! output by §G+20%§!. Reduce planet £minerals  §YMinerals§! output by §R-10%§! and max districts by §R-1§!)."
+tr_est_natural_5_GC_desc:0 "§HUnlocks Building:§! Preservation (Planet unique. Produces §Y10§! £unity  §YUnity§! and increase planet £society  §YSociety§! output by §G+20%§!. Reduce planet £minerals  §YMinerals§! output by §R-10%§! and max districts by §R-1§!)."
 tr_est_natural_5_GC_delayed:0 "Every planet have their own natural habitat, unique in the galaxy. We must ensure that at least parts of it is preserved without disruption, to remain as it has before we arrived."
 
 tr_est_natural_5_GC_AI:0 "Preservation"
@@ -1571,6 +1579,8 @@ tradition_est_order_desc:0 "Every being have their role in the grand scheme of t
 tr_est_order_adopt:0 "Order Traditions"
 tr_est_order_adopt_desc:0 "$tradition_est_order_desc$\n\n$tr_est_order_adopt_effect$\n\n$tr_est_order_finish_effect$"
 tr_est_order_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_RESETTLEMENT_COST_MULT$§! decreased by §G-20%§!."
+tr_est_order_adopt_egali_desc:0 "$tradition_est_order_desc$\n\n$tr_est_order_adopt_egali_effect$\n\n$tr_est_order_finish_effect$"
+tr_est_order_adopt_egali_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! increased by §G+15%§!."
 
 tradition_est_order_egali:0 "Order"
 tradition_est_order_egali_desc:0 "A successful interstellar empire can only be run on the basis of absolute order."
@@ -1611,7 +1621,7 @@ tr_est_order_4_auth_desc:0 "§Y$MOD_POP_GROWTH_SPEED$§! increased by §G+20%§!
 tr_est_order_4_auth_delayed:0 "Until now procreation have been free and unregulated. As our empire expands we can no longer afford these uncertainties in population growth. Each year the local government will make a plan on how many new individuals are to be born and designate citizens to produce those new individuals."
 
 tr_est_order_5:0 "A State of Control"
-tr_est_order_5_desc:0 "Provide §Y1§! £job_enforcer£ §Y$job_enforcer$ Job§! per §Y15§! £pop£ Pops on a planet."
+tr_est_order_5_desc:0 "Provide §Y1§! £job_enforcer£ §Y$job_enforcer$ Job§! per §Y25§! £pop£ Pops on a planet."
 tr_est_order_5_delayed:0 "There is not an element of our society that won't benefit from being supervised and controlled by our government. To ensure an efficient empire we cannot leave anything to chance, or even worse, to the careless management of independent individuals or institutions."
 
 tr_est_order_5_egali:0 "Rights and Responsibilities"
@@ -1678,7 +1688,7 @@ tradition_est_piracy_GC_desc:0 "$tradition_est_piracy_desc$"
 
 tr_est_piracy_adopt:0 "Piracy Traditions"
 tr_est_piracy_adopt_desc:0 "$tradition_est_piracy_desc$\n\n$tr_est_piracy_adopt_effect$\n\n$tr_est_piracy_finish_effect$"
-tr_est_piracy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nUnlocks the §Y$war_goal_est_wg_plunder$§! wargoal. In addition, §YPiracy Risk§! reduced by §G-25%§!."
+tr_est_piracy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nUnlocks the §Y$war_goal_est_wg_plunder$§! wargoal. In addition, §YPiracy Growth§! reduced by §G-25%§!."
 
 tr_est_piracy_adopt_special:0 "$tr_est_piracy_adopt$"
 tr_est_piracy_adopt_special_desc:0 "$tradition_est_piracy_desc$\n\n$tr_est_piracy_adopt_special_effect$\n\n$tr_est_piracy_finish_effect$"
@@ -1686,7 +1696,7 @@ tr_est_piracy_adopt_special_effect:0 "§E$TRADITIONS_ADOPT$:§!\tr_est_piracy_ad
 
 tr_est_piracy_adopt_GC:0 "Raider Traditions"
 tr_est_piracy_adopt_GC_desc:0 "$tradition_est_piracy_GC_desc$\n\n$tr_est_piracy_adopt_GC_effect$\n\n$tr_est_piracy_finish_effect$"
-tr_est_piracy_adopt_GC_effect:0 "§E$TRADITIONS_ADOPT$:§!\nUnlocks the §Y$war_goal_est_wg_plunder$§! wargoal. In addition, §YShip SPeed§! increased by §G+10%§!."
+tr_est_piracy_adopt_GC_effect:0 "§E$TRADITIONS_ADOPT$:§!\nUnlocks the §Y$war_goal_est_wg_plunder$§! wargoal. In addition, §YShip Speed§! increased by §G+10%§!."
 
 tr_est_piracy_adopt_special_GC:0 "$tr_est_piracy_adopt_GC$"
 tr_est_piracy_adopt_special_GC_desc:0 "$tradition_est_piracy_GC_desc$\n\n$tr_est_piracy_adopt_special_effect$\n\n$tr_est_piracy_finish_effect$"
@@ -1701,9 +1711,8 @@ tr_est_piracy_2_AI_desc:0 "Our £energy  §YEnergy Credit§! output is increased
 tr_est_piracy_2_delayed:0 "We are skilled raiders, able to send small raiding parties across the borders to foreign empires, attacking undefended settlements and trade ships. We will take whatever we can find of value and then disappear."
 
 tr_est_piracy_3:0 "Saboteur"
-tr_est_piracy_3_desc:0 "Reduce £food §YFood§! and £minerals  §YMineral§! output by §R-15%§! and increase §YBuilding Upkeep§! by §R+15%§! for all our §YRivals§!. §Y$MOD_COUNTRY_MAX_RIVALRIES$§! increased by §Y1§!."
-tr_est_piracy_3_no_rivals_desc:0 "Reduce £food §YFood§! and £minerals  §YMineral§! output by §R-15%§! and increase §YBuilding Upkeep§! by §R+15%§! for all our §YRivals§!."
-tr_est_piracy_3_passive_AI_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§! increased by §G+5%§! and§Y$MOD_COUNTRY_MAX_RIVALRIES$§! increased by §G1§!."
+tr_est_piracy_3_desc:0 "Reduce £food §YFood§! and £minerals  §YMineral§! output by §R-10%§! and increase §YBuilding Upkeep§! by §R+10%§! for all our §YRivals§!. §Y$MOD_COUNTRY_MAX_RIVALRIES$§! increased by §Y1§!."
+tr_est_piracy_3_other_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§! increased by §G+5%§! and§Y$MOD_COUNTRY_MAX_RIVALRIES$§! increased by §G1§!."
 tr_est_piracy_3_delayed:0 "We have little love for our enemies, we don't have to succeed if we can make them fail. To ensure this we will use even the most underhand of tactics."
 
 tr_est_piracy_4:0 "Ruthless Fighters"
@@ -1711,17 +1720,21 @@ tr_est_piracy_4_desc:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§! and §Y$MOD_SHIP_WEAPON_
 tr_est_piracy_4_delayed:0 "We are unusually ruthless fighters, having little mercy for our enemies."
 
 tr_est_piracy_5:0 "Rights of the Strong"
-tr_est_piracy_5_desc:0 "Increase the the £happiness  §Y$MOD_POP_HAPPINESS$§! by §G+5%§! for all £pops  §YPops§! which are either §YFull citizens§! or non-enslaved while living under a §YCaste System§!. Increase §YSlave Resource Output§! by §G+5%§!."
-tr_est_piracy_5_resettlement_desc:0 "Increase the the £happiness  §Y$MOD_POP_HAPPINESS$§! by §G+5%§! for all £pops  §YPops§! which are either §YFull citizens§! or non-enslaved while living under a §YCaste System§!. §Y$MOD_COUNTRY_RESETTLEMENT_COST_MULT$§! by §G-10%§!."
+tr_est_piracy_5_desc:0 "The £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pop_cat_ruler  §YRuler Pops§! is increased by §G+15%§! and the §YPolitical Power§! of all £pop_cat_worker  §YWorker§! and  £pop_cat_slave  §YSlave Pops§! by §G-25%§!."
+tr_est_piracy_5_no_slaves_desc:0 "The £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pop_cat_ruler  §YRuler Pops§! is increased by §G+15%§! and the §YPolitical Power§! of all £pop_cat_worker  §YWorker Pops§! by §G-25%§!."
 tr_est_piracy_5_delayed:0 "It is a law of nature that the weak should bend to the strong."
 
 tr_est_piracy_5_nice:0 "Free Spirits"
-tr_est_piracy_5_nice_desc:0 "Growth from migration increased by §G+15%§! and §Y$MOD_SHIP_SPEED_MULT$§! increased by §G+10%§!."
+tr_est_piracy_5_nice_desc:0 "§YPop Growth from Migration§! increased by §G+15%§! and §Y$MOD_SHIP_SPEED_MULT$§! increased by §G+10%§!."
 tr_est_piracy_5_nice_delayed:0 "Life is an adventure and we won't let anything hold us down."
 
 tr_est_piracy_5_hive:0 "Xenophage"
-tr_est_piracy_5_hive_desc:0 "Generates §Y10§! £food  for every £pop  §YPop§! on a planet we successfully invade. The $tr_est_piracy_2$ tradition also generates £food  §YFood§!. §YProcessing Output§! increased by §G+30%§!."
+tr_est_piracy_5_hive_desc:0 "Generates §Y10§! £food  for every £pop  §YPop§! on a planet we successfully invade. The $tr_est_piracy_2$ tradition also generates £food  §YFood§!."
 tr_est_piracy_5_hive_delayed:0 "We are not picky with what we eat, we will take what is available. The flesh of the mortals will serve as good as anything else."
+
+tr_est_piracy_5_hive_livestock:0 "Xenophage"
+tr_est_piracy_5_hive_livestock_desc:0 "Generates §Y10§! £food  for every £pop  §YPop§! on a planet we successfully invade. The $tr_est_piracy_2$ tradition also generates £food  §YFood§!. §YLivestocks§! generate §Y1§! additional £food  §YFood§!."
+tr_est_piracy_5_hive_livestock_delayed:0 "We are not picky with what we eat, we will take what is available. The flesh of the mortals will serve as good as anything else."
 
 tr_est_piracy_5_machines:0 "Repurposed Machines"
 tr_est_piracy_5_machines_desc:0 "Generates §Y3§! machine £pop  §YPops§! on conquered planets."
@@ -1758,15 +1771,15 @@ tr_est_spaceborn_1_GC:0 "The Call of the Void"
 tr_est_spaceborn_1_GC_delayed:0 "The great void of space, it calls us. Only in its embrace we will find peace."
 
 tr_est_spaceborn_2:0 "A Life in Space"
-tr_est_spaceborn_2_desc:0 "§YStarport Build Cost§! and §YStarport Upgrade Cost§! is decreased by §G-25%§!."
+tr_est_spaceborn_2_desc:0 "§YStarbase Build Cost§! and §YStarbase Upgrade Cost§! is decreased by §G-25%§!."
 tr_est_spaceborn_2_delayed:0 "Now finally we have the means to establish ourself in our one true home."
 
 tr_est_spaceborn_3:0 "Void Walker"
-tr_est_spaceborn_3_desc:0 "§YFTL Speed§! increased by §G+25%§! and §YShip Speed§! increased by §G+25%§!."
+tr_est_spaceborn_3_desc:0 "§YShip Speed§! increased by §G+25%§!."
 tr_est_spaceborn_3_delayed:0 "While roaming the emptiness of space we are in our true element. Few others have our natural aptitude for space travel."
 
 tr_est_spaceborn_4:0 "Stargazer"
-tr_est_spaceborn_4_desc:0 "All §YStars§! in a system with a planet we control produces §Y5§! additional £energy  §YEnergy§!."
+tr_est_spaceborn_4_desc:0 "All §YStars§! we control which produces £energy  §YEnergy§! produces §Y1§! additional £energy  §YEnergy§!."
 tr_est_spaceborn_4_delayed:0 "Lone wells of light, scattered in an eternity of darkness. It is a marvellous view, but one must not gaze to long, or one will go mad by their alluring sight."
 
 tr_est_spaceborn_5:0 "Spaceborn"
@@ -1777,7 +1790,7 @@ tr_est_spaceborn_5_habitat_megastruct_desc:0 "§YMegastructure Build Speed§! in
 tr_est_spaceborn_5_delayed:0 "Ever since we first reached into space we have known, this is where we belong."
 
 tr_est_spaceborn_finish:0 "Spaceborn Traditions finished"
-tr_est_spaceborn_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_spaceborn_adopt$ reduces the §YBuild Cost§! of §YMining Stations§! and §YResearch Stations§! by §G-22%§!."
+tr_est_spaceborn_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_spaceborn_adopt$ reduces the §YBuild Cost§! of §YMining Stations§! and §YResearch Stations§! by §G-25%§!."
 
 ################################################################
 # COLLECTIVISM/INDIVIDUALISM
@@ -1786,7 +1799,7 @@ tradition_est_coll_indv:0 "Collective/Individual"
 tradition_est_coll_indv_desc:0 "Only as the part of something larger can an individual achieve true greatness.\n\nOur empire have no value in itself, only the individuals who constitute it does."
 tr_est_coll_indv_adopt:0 "Collectivism/Individualism Traditions"
 tr_est_coll_indv_adopt_desc:0 "$tradition_est_collectivism_desc$\n\n$tradition_est_individualism_desc$\n\n$tr_est_coll_indv_adopt_effect$\n\n$tr_est_coll_indv_finish_effect$"
-tr_est_coll_indv_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nOur £unity  §YUnity§! output is increased by §G+10%§!.\n\nWhenever a leader levels up, gain §Y10§! £influence  §YInfluence§!."
+tr_est_coll_indv_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nOn adoption we may chose either Collectivism or Individualism traditions. \n\nOur £unity  §YUnity§! output is increased by §G+10%§!.\n\nWhenever a leader levels up, gain §Y10§! £influence  §YInfluence§!."
 
 tr_est_coll_indv_1:0 "$tr_est_collectivism_1$/$tr_est_individualism_1$"
 tr_est_coll_indv_1_desc:0 "$tr_est_collectivism_1_desc$\n\n$tr_est_individualism_1_desc$"
@@ -1819,8 +1832,11 @@ tr_est_collectivism_adopt_desc:0 "$tradition_est_collectivism_desc$\n\n$tr_est_c
 tr_est_collectivism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nOur £unity  §YUnity§! output is increased by §G+10%§!."
 
 tr_est_collectivism_1:0 "Part of the Puzzle"
-tr_est_collectivism_1_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§! decreased by §G-10%§! and §Y$MOD_COUNTRY_RESETTLEMENT_COST_MULT$§! decreased by §G-10%§!."
+tr_est_collectivism_1_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§! decreased by §G-10%§! and §Y$MOD_COUNTRY_RESETTLEMENT_COST_MULT$§! decreased by §G-15%§!."
 tr_est_collectivism_1_delayed:0 "Everyone is merely a piece, while the role they play is small it is important that each and one, without hesitation, do their part in the greater scheme of things."
+tr_est_collectivism_1_no_resettlement:0 "$tr_est_collectivism_1$"
+tr_est_collectivism_1_no_resettlement_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§! decreased by §G-15%§!."
+tr_est_collectivism_1_no_resettlement_delayed:0 "$tr_est_collectivism_1_delayed$"
 
 tr_est_collectivism_2:0 "United We Stand"
 tr_est_collectivism_2_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! is increased by §G+10%§! and our £unity  §YUnity§! output is increased by §G+5%§!."
@@ -1835,7 +1851,7 @@ tr_est_collectivism_4_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! is increased by
 tr_est_collectivism_4_delayed:0 "To serve in our military is one of the best way to serve our empire. Throughout our realm there is not a soul who would not come when the empire calls for their service."
 
 tr_est_collectivism_5:0 "Self Sacrifice"
-tr_est_collectivism_5_desc:0 "§Y$MOD_ARMY_MORALE$§! increased by §G+20%§! and §Y$MOD_PLANET_CRIME_ADD$§! is reduced by §G-10%§! on all our planets."
+tr_est_collectivism_5_desc:0 "§Y$MOD_ARMY_MORALE$§! increased by §G+20%§! and the £happiness  §YHappiness§! of £pop_cat_worker  §YWorker Pops§! is increased by §G+5%§!."
 tr_est_collectivism_5_delayed:0 "The need of the many outweigh the needs of the few."
 
 tr_est_collectivism_finish:0 "Collectivism Traditions finished"
@@ -1850,19 +1866,19 @@ tr_est_individualism_adopt_desc:0 "$tradition_est_individualism_desc$\n\n$tr_est
 tr_est_individualism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nWhenever a leader levels up, gain §Y10§! £influence  §YInfluence§!."
 
 tr_est_individualism_1:0 "Cult of Ingenuity"
-tr_est_individualism_1_desc:0 "§YScientist Level Cap§! increased by §Y1§!. In addition, whenever a §YScientist§! levels up, for one year, increase their bonus to §YResearch Speed§! by §G+50%§! in one category as well as increasing their §YAnomaly Generation Chance§! by §G+25%§!."
+tr_est_individualism_1_desc:0 "§YScientist Starting Level§! increased by §Y1§!. In addition, whenever a §YScientist§! levels up, for one year, increase their bonus to §YResearch Speed§! by §G+50%§! in one category as well as increasing their §YAnomaly Generation Chance§! by §G+25%§!."
 tr_est_individualism_1_delayed:0 "The trait of Ingenuity is revered within our scientific community, those that possess it is respected and receive full support in their pursuit of knowledge."
 
 tr_est_individualism_1_AI:0 "$tr_est_individualism_1$"
-tr_est_individualism_1_AI_desc:0 "§YScientist Level Cap§! increased by §Y2§!."
+tr_est_individualism_1_AI_desc:0 "§Y$MOD_LEADER_SCIENTIST_SKILL_LEVELS$§! and §YScientist Starting Level§! increased by §Y1§!."
 tr_est_individualism_1_AI_delayed:0 "$tr_est_individualism_1_delayed$"
 
 tr_est_individualism_2:0 "Promotion of the Talented"
-tr_est_individualism_2_desc:0 "§Y$MOD_LEADER_ADMIRAL_SKILL_LEVELS$§! increased by §Y1§!. In addition, whenever an §YAdmiral§! levels up, for one year, increase their bonus to §Y$MOD_SHIP_SPEED_MULT$§!, §Y$MOD_SHIP_FIRE_RATE_MULT$§! and §Y$MOD_SHIP_INTERSTELLAR_SPEED_MULT$§! by §G+25%§!."
+tr_est_individualism_2_desc:0 "§YAdmiral Starting Level§! increased by §Y1§!. In addition, whenever an §YAdmiral§! levels up, for one year, increase their bonus to §Y$MOD_SHIP_SPEED_MULT$§!, §Y$MOD_SHIP_FIRE_RATE_MULT$§! and §Y$MOD_SHIP_INTERSTELLAR_SPEED_MULT$§! by §G+25%§!."
 tr_est_individualism_2_delayed:0 "We will promote the most talented of individuals to positions of power within the military. As high ranking officers they can use their unique skills to aid our empire."
 
 tr_est_individualism_2_AI:0 "$tr_est_individualism_2$"
-tr_est_individualism_2_AI_desc:0 "§Y$MOD_LEADER_ADMIRAL_SKILL_LEVELS$§! increased by §Y2§!."
+tr_est_individualism_2_AI_desc:0 "§Y$MOD_LEADER_ADMIRAL_SKILL_LEVELS$§! and §YAdmiral Starting Level§! increased by §Y1§!."
 tr_est_individualism_2_AI_delayed:0 "$tr_est_individualism_2_delayed$"
 
 tr_est_individualism_3:0 "Rule of the Accomplished"
@@ -1870,19 +1886,19 @@ tr_est_individualism_3_desc:0 "§Y$MOD_LEADER_RULER_SKILL_LEVELS$§! increased b
 tr_est_individualism_3_delayed:0 "Only the most accomplished of individuals can be allowed to rule our empire. Only those most skilled would be selected for this noble task."
 
 tr_est_individualism_3_AI:0 "$tr_est_individualism_3$"
-tr_est_individualism_3_AI_desc:0 "§Y$MOD_LEADER_RULER_SKILL_LEVELS$§! increased by §2§!."
+tr_est_individualism_3_AI_desc:0 "§Y$MOD_LEADER_RULER_SKILL_LEVELS$§! increased by §Y2§!."
 tr_est_individualism_3_AI_delayed:0 "$tr_est_individualism_3_delayed$"
 
 tr_est_individualism_4:0 "Career Pursuit"
-tr_est_individualism_4_desc:0 "§YLeader Upkeep§! reduced by §G-15%§!."
+tr_est_individualism_4_desc:0 "§YLeader Upkeep§! reduced by §G-20%§! and §Y$MOD_LEADER_SKILL_LEVELS$§! increased by §Y1§!."
 tr_est_individualism_4_delayed:0 "Our empire is full of individuals seeking to pursue their careers. Who dreams to reach the top of their profession and will do what it takes to get there."
 
 tr_est_individualism_5:0 "Personal Ambitions"
-tr_est_individualism_5_desc:0 "Growth from migration increased by §G+25%§! and §YLeader Experience Gain§! increased by §G+15%§!."
+tr_est_individualism_5_desc:0 "Growth from migration increased by §G+25%§! and §YLeader Experience Gain§! increased by §G+20%§!."
 tr_est_individualism_5_delayed:0 "Every individual have their own ambitions as well as the drive to try and fulfil them."
 
 tr_est_individualism_finish:0 "Individualism Traditions finished"
-tr_est_individualism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_individualism_adopt$ Will increase the §YStarting Level§! of all  leaders to §Y2§!."
+tr_est_individualism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_individualism_adopt$ Will increase the §YPolitical Power§! and §YResource Output§! of £pop_cat_ruler  §YRuler Pops§! by §G+50%§!."
 
 ### Swap - Perseverance ###
 tradition_est_perseverance:0 "Perseverance"
