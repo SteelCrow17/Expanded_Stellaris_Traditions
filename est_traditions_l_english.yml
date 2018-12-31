@@ -120,13 +120,13 @@ tr_est_administratum_1:0 "Streamlined Recruitment Processes"
 tr_est_administratum_1_desc:0 "§Y$MOD_LEADER_COST$§! reduced by §G-25%§!."
 tr_est_administratum_1_delayed:0 "A series of standardised aptitude tests, questionnaires, and interviews are implemented to reduce the overhead necessary to find the best candidate for leadership roles in service to the empire."
 
-tr_est_administratum_2:0 "Meritocratic Promotion Policies"
+tr_est_administratum_2:0 "Merit-Based Promotions"
 tr_est_administratum_2_desc:0 "§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§! increased by §Y1§!. In addition, all §YGovernors§! start with an additional trait."
-tr_est_administratum_2_delayed:0 "Politics, intrigue, and petty quarrels used to affect who gets promoted. New strict guidelines and centralized promotion decisions ensures that that is no longer the case."
+tr_est_administratum_2_delayed:0 "Politics, intrigue, and petty quarrels greatly affected past promotion decisions. New strict guidelines and decentralized promotion decisions ensures that this is no longer the case."
 
 tr_est_administratum_3:0 "Efficient Bureaucracy"
 tr_est_administratum_3_desc:0 "§YShip Build Speed§! increased by §G+10%§!, §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§! increased by §G+25%§! and §Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§! reduced by §G-25%§!."
-tr_est_administratum_3_delayed:0 "The expanding bureaucracy threatens to slow down the efficiency of our administration. By employing new, improved, bureaucratic techniques we ensure that this does not happen."
+tr_est_administratum_3_delayed:0 "As any empire grows, so too does its bureaucracy. New methods are implemented to reduce paperwork and bureaucratic response times, enabling projects to be completed more quickly."
 
 tr_est_administratum_4:0 "Standardized Planetary Administration"
 tr_est_administratum_4_desc:0 "Fully developed colonies with a §YSector Governor§! have their §YDistrict Build Cost§! reduced by §G-25%§!."
@@ -134,7 +134,7 @@ tr_est_administratum_4_delayed:0 "As we gain control of more planets, their loca
 
 tr_est_administratum_5:0 "Bureau of Oversight"
 tr_est_administratum_5_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§! increased by §G+50%§!."
-tr_est_administratum_5_delayed:0 "The Bureau of Oversight is an independent organization in our administration. Its representatives, the overseers, will travel throughout our empire ensuring that it is governed according to regulations. It is the highest fear of every local administrator to get a remark from an overseer."
+tr_est_administratum_5_delayed:0 "The Bureau of Oversight is an independent organization. Its Overseers travel throughout the empire, inspecting the policies and practices of local administrations. A written remark from a Bureau Overseer is the nightmare of any ambitious administrator."
 
 tr_est_administratum_finish:0 "Administratum Traditions finished"
 tr_est_administratum_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_administratum_adopt$ unlocks an additional §YCivic Slot§!."
@@ -142,22 +142,22 @@ tr_est_administratum_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $
 ### Swap - Omnipresence ###
 
 tradition_est_omnipresence:0 "Omnipresence"
-tradition_est_omnipresence_desc:0 "We are one, yet we are everywhere. We are able to give our full attention to both the grand scheme of things, as well as the smallest action of the most insignificant of drones."
+tradition_est_omnipresence_desc:0 "When all became One, One's presence was no longer limited within One's own borders. One is only limited where One has not yet been."
 tr_est_omnipresence_adopt:0 "Omnipresence Traditions"
 tr_est_omnipresence_adopt_desc:0 "$tradition_est_omnipresence_desc$\n\n$tr_est_omnipresence_adopt_effect$\n\n$tr_est_administratum_finish_effect$"
 tr_est_omnipresence_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YDeviancy§! reduced by §G-20%§!."
 
 tr_est_omnipresence_1:0 "Total Information Processing"
 tr_est_omnipresence_1_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§! increased by §Y1§!."
-tr_est_omnipresence_1_delayed:0 "Every day we are faced by a vast quantity of impressions and information. By registering even the most insignificant of input we can better earn from experience and thus hone our abilities even further."
+tr_est_omnipresence_1_delayed:0 "Each day, One ingests a vast quantity of information. For even the smallest events, One simultaneously experiences all that its drones experience. Extracting patterns from this aggregated data allows One to adapt and learn as new stimuli occurs."
 
 tr_est_omnipresence_2:0 "Full Drone Presence"
 tr_est_omnipresence_2_desc:0 "§YShip Build Speed§! increased by §G+10%§!, §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§! increased by §G+25%§! and §Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§! reduced by §G-25%§!."
-tr_est_omnipresence_2_delayed:0 "Rather than drone behaviour being largely determined by reflexes we will take full control over each individual drone, thus maximizing their efficiency."
+tr_est_omnipresence_2_delayed:0 "Once the technology to reduce drone latency to near-zero was developed, One was no longer required to allow any degree of asynchronous autonomy to its drones. One assumes direct control of all drones."
 
 tr_est_omnipresence_3:0 "Increased Capacity"
 tr_est_omnipresence_3_desc:0 "§YAdministrative Capacity§! increased by §G20§!."
-tr_est_omnipresence_3_delayed:0 "As our we expand throughout the galaxy our min needs to expand as well to be able to accommodate the expanding number of autonomous drones."
+tr_est_omnipresence_3_delayed:0 "As One expands to new regions of the galaxy, One's neural pathways must also expand to accommodate new drones."
 
 tr_est_omnipresence_4:0 "Simultaneous Control"
 tr_est_omnipresence_4_delayed:0 "Certain similar tasks are carried out over several of our worlds at the same time. By developing techniques for simultaneously controlling these processes we can improve our cognitive efficiency. "
@@ -175,7 +175,7 @@ tr_est_omnipresence_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $t
 # AESTHETICS
 ################################################################
 tradition_est_aesthetics:0 "Aesthetics"
-tradition_est_aesthetics_desc:0 "Beauty can be perceived but no explained. Without beauty, our existence in the galaxy would be hollow."
+tradition_est_aesthetics_desc:0 "Beauty can be perceived but not explained. Without beauty, our existence in the galaxy would be hollow."
 tr_est_aesthetics_adopt:0 "Aesthetics Traditions"
 tr_est_aesthetics_adopt_desc:0 "$tradition_est_aesthetics_desc$\n\n$tr_est_aesthetics_adopt_effect$\n\n$tr_est_aesthetics_finish_effect$"
 tr_est_aesthetics_adopt_spiritualist_desc:0 "$tradition_est_aesthetics_desc$\n\n$tr_est_aesthetics_adopt_spiritualist_effect$\n\n$tr_est_aesthetics_finish_effect$"
