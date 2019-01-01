@@ -175,7 +175,7 @@ tr_est_omnipresence_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $t
 # AESTHETICS
 ################################################################
 tradition_est_aesthetics:0 "Aesthetics"
-tradition_est_aesthetics_desc:0 "Beauty can be perceived but not explained. Without beauty, our existence in the galaxy would be hollow."
+tradition_est_aesthetics_desc:0 "Beauty can be perceived but not explained. Without beauty, our existence would be hollow."
 tr_est_aesthetics_adopt:0 "Aesthetics Traditions"
 tr_est_aesthetics_adopt_desc:0 "$tradition_est_aesthetics_desc$\n\n$tr_est_aesthetics_adopt_effect$\n\n$tr_est_aesthetics_finish_effect$"
 tr_est_aesthetics_adopt_spiritualist_desc:0 "$tradition_est_aesthetics_desc$\n\n$tr_est_aesthetics_adopt_spiritualist_effect$\n\n$tr_est_aesthetics_finish_effect$"
@@ -184,34 +184,34 @@ tr_est_aesthetics_adopt_spiritualist_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MO
 
 tr_est_aesthetics_1:0 "Works of Literature"
 tr_est_aesthetics_1_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§! increased by §G+15%§!."
-tr_est_aesthetics_1_delayed:0 "The works of our writers and poets will enlighten billions of souls over thousands of years. Once a piece is finished, it will last an eternity, it will make the galaxy a better place everyday."
+tr_est_aesthetics_1_delayed:0 "The works of our writers and poets are well-known throughout the galaxy. Citizens of the empire that travel outside our borders are often mistaken as the artists and treated as celebrities."
 
 tr_est_aesthetics_2:0 "Guild of Artists"
-tr_est_aesthetics_2_desc:0 "Provides §Y1§! §YCulture Worker Job§! and §Y1§! §YEntertainer Job§! for every §Y40§! £pop  §YPops§! on a planet. "
-tr_est_aesthetics_2_delayed:0 "The esteemed guild of artists collects the most skilled in the empire, they lend themselves to the greater good."
+tr_est_aesthetics_2_desc:0 "Provides §Y1§! §YCulture Worker Job§! and §Y1§! §YEntertainer Job§! for every §Y40§! £pop §YPops§! on a planet. "
+tr_est_aesthetics_2_delayed:0 "The Guild of Artists hosts public cultural and creative events on a regular basis, bringing joy and wonder to all citizens."
 
-tr_est_aesthetics_3:0 "Inspiration of Awe"
-tr_est_aesthetics_3_desc:0 "Foreign Empire £opinion  §YOpinion§! is increased by §G+15§! and §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! increased by §G+5%§!."
-tr_est_aesthetics_3_delayed:0 "Foreign Diplomats that visit our empire are struck with awe at the sight of our buildings. They marvel at the beauty that covers every hall they walk through. They then bring the news of the glory of our civilization back to their own empires."
+tr_est_aesthetics_3:0 "Inspired Infrastructure"
+tr_est_aesthetics_3_desc:0 "Foreign Empire £opinion §YOpinion§! is increased by §G+15§! and §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! increased by §G+5%§!."
+tr_est_aesthetics_3_delayed:0 "Visiting diplomats are awestruck by the our empire's ability to weave our arts into even the most mundane aspects of our cities."
 
 tr_est_aesthetics_3_xenophobe:0 "The Art of War"
 tr_est_aesthetics_3_xenophobe_desc:0 "Our £unity  §YUnity§! output is increased by §G+20%§! while we are at war."
-tr_est_aesthetics_3_xenophobe_delayed:0 "There is beauty in war. In every battle is a piece of art. As thousands perish on the fields of battle they become part of a masterwork crafted by our generals."
+tr_est_aesthetics_3_xenophobe_delayed:0 "Our citizens recognize our Admirals and Generals as masters in the art of war, applying their talents to the battlefield as a sculptor would unformed clay."
 
 tr_est_aesthetics_3_IP:0 "Pursuit of Perfection"
 tr_est_aesthetics_3_IP_desc:0 "Our £unity  §YUnity§! output is increased by §G+10%§!."
-tr_est_aesthetics_3_IP_delayed:0 "We care little for the surrounding galaxy, in the tranquillity of our existence we have only one goal; the perfection of artistic beauty.""
+tr_est_aesthetics_3_IP_delayed:0 "We care little for the petty squabbles of other empires. In the tranquility of our isolation, we dedicate our lives to the pursuit of a singular goal: perfection of artistic beauty."
 
-tr_est_aesthetics_4:0 "Grand Architecture"
-tr_est_aesthetics_4_desc:0 "Planets receive §Y1§! §Y$AMENITT§! for each £building  §YBuilding§!."
-tr_est_aesthetics_4_delayed:0 "Our buildings will be our greatest legacy, they will speak of our greatness long after we are gone."
+tr_est_aesthetics_4:0 "Alluring Architecture"
+tr_est_aesthetics_4_desc:0 "Planets receive §Y1§! §Y$AMENITT§! for each £building §YBuilding§!."
+tr_est_aesthetics_4_delayed:0 "The appreciation for architectural design is widespread amongst our citizenry. Many citizens enjoy simply spending time in the presence of the works of our master architects."
 
-tr_est_aesthetics_5:0 "Galactic Wonders"
-tr_est_aesthetics_5_desc:0 "Enables §Y5§! expensive empire unique wonder buildings, each providing planet and empire wide bonuses. To build a wonder a £building  §Y$building_major_capital$§! is required, also no more than one wonder can be built on each planet."
-tr_est_aesthetics_5_delayed:0 "Our empire is home to some of the greatest wonders in the galaxy. Their greatness is known even to those on the most remote of worlds in this galaxy."
+tr_est_aesthetics_5:0 "The Five Wonders of the Galaxy"
+tr_est_aesthetics_5_desc:0 "Enables §Y5§! expensive empire unique wonder buildings, each providing planet and empire wide bonuses. To build a wonder £building §Y$building_major_capital$§! is required, also no more than one wonder can be built on each planet."
+tr_est_aesthetics_5_delayed:0 "Our empire's architectural renaissance has produced what became widely-known as 'The Five Wonders of the Galaxy'. Each structure provides its patrons with a unique function and aesthetic that are as-yet unmatched."
 
 tr_est_aesthetics_finish:0 "Aesthetics Traditions finished"
-tr_est_aesthetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_aesthetics_adopt$ Increases the £society  §YSociety Research§! output by £culture_workers  §YCulture Workers§! by §Y2§!."
+tr_est_aesthetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_aesthetics_adopt$ increases the £society §YSociety Research§! output of all £culture_workers §YCulture Workers§! by §Y2§!."
 
 ### Swap - Age ###
 tradition_est_age:0 "Venerability"
