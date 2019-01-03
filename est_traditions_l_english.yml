@@ -17,11 +17,11 @@ tr_est_academy_2:0 "Mandatory Higher Education"
 tr_est_academy_2_desc:0 "Increase the §YStarting Level§! of all leaders by §Y1§!."
 tr_est_academy_2_delayed:0 "By mandating a higher education for all citizens, we can ensure that our leaders are capable of executing their roles with deft precision."
 
-tr_est_academy_3:0 "Learn, Unlearn, and Relearn"
+tr_est_academy_3:0 "Lessons Learned"
 tr_est_academy_3_desc:0 "§YLeader Experience Gain§! increased by §G+25%§!."
 tr_est_academy_3_delayed:0 "We value learning. Not just for the knowledge itself, but also for the process by which we learn. A true leader learns as much from failure as they do success."
 
-tr_est_academy_4:0 "Towers of Ivory"
+tr_est_academy_4:0 "Ivory Towers"
 tr_est_academy_4_desc:0 "Provide §Y1§! £job_head_researcher£ §Y$job_head_researcher$ Job§! on planets with a £building  §Y$building_research_lab_3$§!."
 tr_est_academy_4_delayed:0 "Cutting-edge research is best left to the experts. In their ivory towers, our scientists are free to study, experiment, and develop without outside interference."
 
@@ -142,31 +142,31 @@ tr_est_administratum_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $
 ### Swap - Omnipresence ###
 
 tradition_est_omnipresence:0 "Omnipresence"
-tradition_est_omnipresence_desc:0 "When all became One, One's presence was no longer limited within One's own borders. One is only limited where One has not yet been."
+tradition_est_omnipresence_desc:0 "One's presence should not be limited only to One's own borders. When All are integrated into One, One will BE all."
 tr_est_omnipresence_adopt:0 "Omnipresence Traditions"
 tr_est_omnipresence_adopt_desc:0 "$tradition_est_omnipresence_desc$\n\n$tr_est_omnipresence_adopt_effect$\n\n$tr_est_administratum_finish_effect$"
 tr_est_omnipresence_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YDeviancy§! reduced by §G-20%§!."
 
 tr_est_omnipresence_1:0 "Total Information Processing"
 tr_est_omnipresence_1_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§! increased by §Y1§!."
-tr_est_omnipresence_1_delayed:0 "Each day, One ingests a vast quantity of information. For even the smallest events, One simultaneously experiences all that its drones experience. Extracting patterns from this aggregated data allows One to adapt and learn as new stimuli occurs."
+tr_est_omnipresence_1_delayed:0 "One simultaneously learns from all its drones' experiences. Patterns are extracted from this aggregate data, allowing One to learn from obstacles large and small."
 
 tr_est_omnipresence_2:0 "Full Drone Presence"
 tr_est_omnipresence_2_desc:0 "§YShip Build Speed§! increased by §G+10%§!, §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§! increased by §G+25%§! and §Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§! reduced by §G-25%§!."
-tr_est_omnipresence_2_delayed:0 "Once the technology to reduce drone latency to near-zero was developed, One was no longer required to allow any degree of asynchronous autonomy to its drones. One assumes direct control of all drones."
+tr_est_omnipresence_2_delayed:0 "One prioritizes critical functions within its infrastructure, proactively assuming direct control over drones to increase productivity."
 
 tr_est_omnipresence_3:0 "Increased Capacity"
 tr_est_omnipresence_3_desc:0 "§YAdministrative Capacity§! increased by §G20§!."
 tr_est_omnipresence_3_delayed:0 "As One expands to new regions of the galaxy, One's neural pathways must also expand to accommodate new drones."
 
-tr_est_omnipresence_4:0 "Simultaneous Control"
-tr_est_omnipresence_4_delayed:0 "Certain similar tasks are carried out over several of our worlds at the same time. By developing techniques for simultaneously controlling these processes we can improve our cognitive efficiency. "
+tr_est_omnipresence_4:0 "Standard Control Patterns"
+tr_est_omnipresence_4_delayed:0 "Deviation creates inefficiency. A standard control pattern is enforced upon drones performing similar tasks. Any deviation from the pattern causes One to assume direct control of the drone, immediately rectifying the error."
 
-tr_est_omnipresence_5:0 "Advanced Cognitive Synapses"
-tr_est_omnipresence_5_delayed:0 "By improving the way our presence flows through our realm we will be able to control it."
+tr_est_omnipresence_5:0 "Synaptic Enhancement"
+tr_est_omnipresence_5_delayed:0 "Improvements to One's synaptic systems allow One to simultaneously control more drones for longer periods of time."
 
-tr_est_omnipresence_5_machines:0 "Transmitter Towers"
-tr_est_omnipresence_5_machines_delayed:0 "By constructing specialized transmitter towers to broadcast or cognitive signals we can better control the workings of our realm."
+tr_est_omnipresence_5_machines:0 "Repeated Transmission Towers"
+tr_est_omnipresence_5_machines_delayed:0 "At the furthest reaches of the empire, One's commands can be lost or misinterpreted. A network of Repeater Towers enables One to command its drones across titanic distances."
 
 tr_est_omnipresence_finish:0 "Omnipresence Traditions finished"
 tr_est_omnipresence_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_omnipresence_adopt$ unlocks an additional §YCivic Slot§!."
@@ -184,7 +184,7 @@ tr_est_aesthetics_adopt_spiritualist_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MO
 
 tr_est_aesthetics_1:0 "Works of Literature"
 tr_est_aesthetics_1_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§! increased by §G+15%§!."
-tr_est_aesthetics_1_delayed:0 "The works of our writers and poets are well-known throughout the galaxy. Citizens of the empire that travel outside our borders are often mistaken as the artists and treated as celebrities."
+tr_est_aesthetics_1_delayed:0 "The works of our writers and poets are notorious throughout the galaxy. Even citizens in the empires of our rivals bashfully ask for their autographs."
 
 tr_est_aesthetics_2:0 "Guild of Artists"
 tr_est_aesthetics_2_desc:0 "Provides §Y1§! §YCulture Worker Job§! and §Y1§! §YEntertainer Job§! for every §Y40§! £pop §YPops§! on a planet. "
@@ -193,7 +193,7 @@ tr_est_aesthetics_2_delayed:0 "The Guild of Artists hosts public cultural and cr
 tr_est_aesthetics_3:0 "Inspired Infrastructure"
 tr_est_aesthetics_3_desc:0 "Foreign Empire £opinion §YOpinion§! is increased by §G+15§! and §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! increased by §G+5%§!."
 tr_est_aesthetics_3_xenophile_desc:0 "Foreign Empire £opinion  §YOpinion§! is increased by §G+15§!, §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! increased by §G+5%§!, and §YMigration Attraction§! increased by §G+25%§!."
-tr_est_aesthetics_3_delayed:0 "Visiting diplomats are awestruck by the our empire's ability to weave our arts into even the most mundane aspects of our cities."
+tr_est_aesthetics_3_delayed:0 "Visiting diplomats are awestruck by our ability to elegantly weave the arts into even the most mundane aspects of our cities."
 
 tr_est_aesthetics_3_xenophobe:0 "The Art of War"
 tr_est_aesthetics_3_xenophobe_desc:0 "Our £unity  §YUnity§! output is increased by §G+20%§! while we are at war."
@@ -214,58 +214,58 @@ tr_est_aesthetics_5_delayed:0 "Our empire's architectural renaissance has produc
 tr_est_aesthetics_finish:0 "Aesthetics Traditions finished"
 tr_est_aesthetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_aesthetics_adopt$ increases the £society §YSociety Research§! output of all £culture_workers §YCulture Workers§! by §Y2§!."
 
-### Swap - Age ###
+### Swap - Venerability ###
 tradition_est_age:0 "Venerability"
-tradition_est_age_desc:0 "We have been here since the early days of the galaxy. We saw the rise of the first galactic empires and since then we have watched the rise and fall of many others."
+tradition_est_age_desc:0 "We were amongst the first beings of this galaxy to leave the comfort of our homeworld for the cold embrace of the void between stars. And of those first few, only we endure."
 
-tr_est_age_adopt:0 "Age Traditions"
+tr_est_age_adopt:0 "Venerability Traditions"
 tr_est_age_adopt_desc:0 "$tradition_est_age_desc$\n\n$tr_est_age_adopt_effect$\n\n$tr_est_age_finish_effect$"
 tr_est_age_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_AGE$§! is increased by §Y25§!."
-tr_est_age_adopt_machines:0 "Age Traditions"
+tr_est_age_adopt_machines:0 "Venerability Traditions"
 tr_est_age_adopt_machines_desc:0 "$tradition_est_age_desc$\n\n$tr_est_age_adopt_machines_effect$\n\n$tr_est_age_finish_effect$"
 tr_est_age_adopt_machines_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YMachine Modification Points§! increased by §Y1§!."
 
 tr_est_age_1:0 "Pride"
 tr_est_age_1_desc:0 "Our £unity  §YUnity§! output is increased by §G+10%§!."
-tr_est_age_1_delayed:0 "We have seen other rise and fall, yet we have endured. We know the mistakes of others, and that we will not repeat them as we ascend our long path of glory."
+tr_est_age_1_delayed:0 "Many fall along the path to glory. Where others stumble, stray, and slump, we take pride in overcoming the adversities that conquered them."
 
 tr_est_age_2:0 "Superiority"
 tr_est_age_2_desc:0 "£influence  §YInfluence Gain§! from §YRivals§! increased by §G+25%§!."
-tr_est_age_2_delayed:0 "We gazed upon the stars when the ancestors of our adversaries hadn't even developed sight. The younger races of this galaxy must know their place and bow down to the wisdom of their superiors."
+tr_est_age_2_delayed:0 "We journeyed between the stars before our adversaries' ancestors grasped at the concept of stellar fusion. The upstart races of this galaxy will find their place in heeding the commands of their betters."
 
-tr_est_age_2_devouring_swarm:0 "$tr_est_age_2$"
+tr_est_age_2_devouring_swarm:0 "Inevitable Consumption"
 tr_est_age_2_devouring_swarm_desc:0 "Gain an additional §G+50%§! £society  §YSociety Research§! from devouring organic £pop  §YPops§!."
-tr_est_age_2_devouring_swarm_delayed:0 "We gazed upon the stars when the ancestors of our adversaries hadn't even developed sight. The younger races of this galaxy shall succumb to the strength of their superiors."
+tr_est_age_2_devouring_swarm_delayed:0 "We journeyed between the stars before our adversaries' ancestors grasped at the concept of stellar fusion. What little knowledge the younger races of this galaxy have will be consumed and added to our own."
 
-tr_est_age_2_terminator:0 "$tr_est_age_2$"
+tr_est_age_2_terminator:0 "Inevitable Extermination"
 tr_est_age_2_terminator_desc:0 "Gain an additional §G+50%§! £unity  §YUnity§! from purging organic £pop  §YPops§!."
-tr_est_age_2_terminator_delayed:0 "$tr_est_age_2_devouring_swarm_delayed$"
+tr_est_age_2_terminator_delayed:0 "We journeyed between the stars before our adversaries' ancestors grasped at the concept of stellar fusion. By fire, the younger races of this galaxy will be purged."
 
-tr_est_age_2_assimilators:0 "$tr_est_age_2$"
+tr_est_age_2_assimilators:0 "Inevitable Assimilation"
 tr_est_age_2_assimilators_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§! increased by §G+5%§!."
-tr_est_age_2_assimilators_delayed:0 "$tr_est_age_2_devouring_swarm_delayed$"
+tr_est_age_2_assimilators_delayed:0 "We journeyed between the stars before our adversaries' ancestors grasped at the concept of stellar fusion. What knowledge the younger races of this galaxy have will be integrated and added to our own."
 
 tr_est_age_3:0 "Wisdom"
 tr_est_age_3_desc:0 "§Y$mod_country_base_influence_produces_add$§! increased by §Y1§!."
-tr_est_age_3_delayed:0 "Throughout the eons we have accumulated vast quantities of experience. We have learnt from mistakes of our own, and those of others. Through the centuries we have planned the ultimate rise of our empire. Where strength fails, wisdom will prevail."
+tr_est_age_3_delayed:0 "Time has granted our people the gift of wisdom. We have watched. We have bled. But above all, we have survived."
 
-tr_est_age_3_machines:0 "$tr_est_age_3$"
+tr_est_age_3_machines:0 "Algorithmic Pattern Analysis"
 tr_est_age_3_machines_desc:0 "$tr_est_age_3_desc$"
-tr_est_age_3_machines_delayed:0 "$tr_est_age_3_delayed$"
+tr_est_age_3_machines_delayed:0 "The mistakes of those that have come and gone is recorded in our databanks. A precise analysis of their successes and failures show us the way to victory."
 
 tr_est_age_4:0 "Ancient Knowledge"
 tr_est_age_4_desc:0 "§YResearch Speed§! increased by §G+5%§!."
-tr_est_age_4_delayed:0 "Throughout the millennia we have developed our technologies. What more, we have observed the technologies of many old empires and integrated it into our own. This ancient knowledge will aid us in our quest for this galaxy."
+tr_est_age_4_delayed:0 "We stand upon the collected knowledge of eons. Some gathered before your homeworld solidified, some pillaged from the empires of ancient memory."
 
 tr_est_age_5:0 "Passage of the Cycles"
 tr_est_age_5_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§! increased by §G+5%§! and §YEvasion§! increased by §G+5%§!. Foreign Empire £opinion  §YOpinion§! is increased by §G+10§!."
-tr_est_age_5_delayed:0 "Mortals are born and mortals die, only we live on. They think that they are unique, yet we have seen their kind a thousand times over only in different forms. They have grown predictable. We know how to fight them, manipulate them and how to subdue them."
+tr_est_age_5_delayed:0 "Each empire exists within the cycle of birth and death. Apart from the galactic community, we have watched as each of them tread the same predictable path."
 
 tr_est_age_5_no_dip:0 "$tr_est_age_5$"
 tr_est_age_5_no_dip_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§! increased by §G+5%§! and §YEvasion§! increased by §G+5%§!."
-tr_est_age_5_no_dip_delayed:0 "Mortals are born and mortals die, only we live on. They think that they are unique, yet we have seen their kind a thousand times over only in different forms. They have grown predictable. We know how to destroy them."
+tr_est_age_5_no_dip_delayed:0 "We persist, while these mortals reproduce and die. Each believes that they are unique, yet still they are as predictable as their forebears. We will destroy them as we have those that came before them."
 
-tr_est_age_finish:0 "Age Traditions finished"
+tr_est_age_finish:0 "Venerability Traditions finished"
 tr_est_age_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_age_adopt$ increases §Y$MOD_LEADER_SKILL_LEVELS$§! by §Y2§!."
 
 ################################################################
@@ -991,7 +991,7 @@ tr_est_greed_finish:0 "Greed Traditions finished"
 tr_est_greed_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_greed_adopt$ increases our £energy  §YEnergy Credit§! output by §G+10%§!."
 
 ################################################################
-# INDUSRTY
+# INDUSTRY
 ################################################################
 tradition_est_industry:0 "Industry"
 tradition_est_industry_desc:0 "Our worlds, covered by smoke and filled with factories, can produce whatever we, or indeed the galaxy, may need."
