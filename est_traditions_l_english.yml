@@ -272,29 +272,29 @@ tr_est_age_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_age
 # Archivist
 ################################################################
 tradition_est_archivist:0 "Archivist"
-tradition_est_archivist_desc:0 "Nothing have truly happened nor have truly existed unless it is recorded. Our archives contains the greatest wells of knowledge in this galaxy, there it will be preserved for future generations."
+tradition_est_archivist_desc:0 "An event, unrecorded, may as well not have occurred once it passes out of living memory. We have taken it upon ourselves to catalogue every data point in the galaxy, preserving the events of the past to enrich the lives of future."
 tr_est_archivist_adopt:0 "Archivist Traditions"
 tr_est_archivist_adopt_desc:0 "$tradition_est_archivist_desc$\n\n$tr_est_archivist_adopt_effect$\n\n$tr_est_archivist_finish_effect$"
 tr_est_archivist_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nWe may select §Y2§! research categories in which our §YResearch Speed§! is increased by §G+15%§!."
 
 tradition_est_archivist_GC:0 "$tradition_est_archivist$"
-tradition_est_archivist_GC_desc:0 "Nothing have truly happened nor have truly existed unless it is recorded. It is our task to record every event and existence of this galaxy and preserve these records for eternity."
+tradition_est_archivist_GC_desc:0 "No event shall pass unrecorded. Each event, data point, and thought we observe will be preserved to ensure our collective's journey into eternity."
 
 tr_est_archivist_1:0 "Primitive Lifeforms Study"
 tr_est_archivist_1_desc:0 "We have a §Y10%§! chance to generate an §Y$d_alien_pets_deposit$ Deposit§! on all existing and newly acquired planets. A planet can only be affected once. Unlocks the §Y$mission_est_archivist_1_document_civilization_1$§! observation mission which yields §Y5§! £unity  §YUnity§! and §Y10§! £society  §YSociety Research§!, increased to §Y10§! and  §Y15§!/§Y15§! and  §Y20§! once the §Y$tech_society_2$§!/§Y$tech_society_3$§! technologies have been researched."
-tr_est_archivist_1_delayed:0 "Life is rarely occurring in this galaxy, only found on a selected few planets. Each time it occurs it is unique, different from everywhere else in the galaxy. Must good come from studying these lifeforms. We will investigate their biology and record their cultures."
+tr_est_archivist_1_delayed:0 "The number of planets in the galaxy far outstrips the incidence of life. As preciously rare as they are, each lifeform has a unique lesson to teach us."
 
-tr_est_archivist_1_purifier:0 "Arms Collections"
+tr_est_archivist_1_purifier:0 "The Universal Armory"
 tr_est_archivist_1_purifier_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§! increased by §G+15%§! and §Y$MOD_SHIP_WEAPON_DAMAGE$§! increased by §G+5%§!."
-tr_est_archivist_1_purifier_delayed:0 "At least one copy of every weapon type we have every manufactured is catalogued and stored in our arms collection. We also actively collect weapons manufactured by our fallen enemies, these weapons will also enter our collections, after extensive study."
+tr_est_archivist_1_purifier_delayed:0 "All instruments of war that make contact with the empire must pass through the attentive fingers of the archivists at The Universal Armory. Each weapon is tested for unique destructive capability before being catalogued."
 
 tr_est_archivist_2:0 "The Librarians"
-tr_est_archivist_2_desc:0 "Leaders have a §Y25%§! chance to receive the §YLibrarian§! trait, reducing their §YResearch Speed§! by §R-5%§! and §YSurvey Speed§! by §R-15%§! and increasing their §YCost§! and §YUpkeep§! by §R+50%§!. Such a leader will increase either our §YPhysics§!, §YSociety§! or §YEngineering§! §YResearch Speed§! by §G+10%§!, whenever or not the leader is leading research in any field."
-tr_est_archivist_2_delayed:0 "The esteemed order of librarians are tasked with the running of our archives. They have access to the knowledge we have gathered through generations."
+tr_est_archivist_2_desc:0 "Leaders have a §Y25%§! chance to receive the §YLibrarian§! trait, reducing their §YResearch Speed§! by §R-5%§! and §YSurvey Speed§! by §R-15%§! and increasing their §YCost§! and §YUpkeep§! by §R+50%§!. Such a leader will increase either our £physics  §YPhysics§!, £society  §YSociety§! or £engineering  §YEngineering§! §YResearch Speed§! by §G+10%§!, whether or not the leader is leading research in any field."
+tr_est_archivist_2_delayed:0 "The esteemed order of librarians is tasked with both the maintenance and accessibilty of the data in our archives. Our empire's scientific research benefits greatly from their efforts."
 
-tr_est_archivist_2_GC:0 "Information Keepers"
-tr_est_archivist_2_GC_desc:0 "Leaders have a §Y25%§! chance to receive the §YKeeper§! trait, reducing their §YResearch Speed§! by §R-5%§! and §YSurvey Speed§! by §R-15%§! and increasing their §YCost§! and §YUpkeep§! by §R+50%§!. Such a leader will increase either our £physics  §YPhysics§!, £society  §YSociety§! or £engineering  §YEngineering§! §YResearch Speed§! by §G+10%§!, whenever or not the leader is leading research in any field."
-tr_est_archivist_2_GC_delayed:0 "To increase recall efficiency, in addition to storing information delocalised in the mind, we will store it in specialized memory drones. These drones are specialized in storing large amount of knowledge, and to identify when this knowledge is needed. However, they are not useful for much else."
+tr_est_archivist_2_GC:0 "Data Keepers"
+tr_est_archivist_2_GC_desc:0 "Leaders have a §Y25%§! chance to receive the §YKeeper§! trait, reducing their §YResearch Speed§! by §R-5%§! and §YSurvey Speed§! by §R-15%§! and increasing their §YCost§! and §YUpkeep§! by §R+50%§!. Such a leader will increase either our £physics  §YPhysics§!, £society  §YSociety§! or £engineering  §YEngineering§! §YResearch Speed§! by §G+10%§!, whether or not the leader is leading research in any field."
+tr_est_archivist_2_GC_delayed:0 "Archival drones are built to ingest, catalogue, and search our empire's colossal databanks. The need for these drones to specialize in this role has resulted in several standard parts being left out of their design. They are not useful for much else."
 
 tr_est_archivist_2_AI_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§! is increased by §G+10%§!."
 
