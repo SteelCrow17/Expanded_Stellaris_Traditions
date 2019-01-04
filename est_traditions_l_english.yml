@@ -321,31 +321,31 @@ tr_est_archivist_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_e
 # Chivalry
 ################################################################
 tradition_est_chivalry:0 "Chivalry"
-tradition_est_chivalry_desc:0 "Our ideals are neither too bent nor broken. Whatever happens, without wavering, we must be virtuous."
+tradition_est_chivalry_desc:0 "Our ideals shall neither bend, nor break. We must be virtuous, in all circumstances."
 tr_est_chivalry_adopt:0 "Chivalry Traditions"
 tr_est_chivalry_adopt_desc:0 "$tradition_est_chivalry_desc$\n\n$tr_est_chivalry_adopt_effect$\n\n$tr_est_chivalry_finish_effect$"
 tr_est_chivalry_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nAll leaders gain the §Y$leader_trait_admiral_est_chivalry$§! trait which provides minor bonuses. §YGeneral§! and §YAdmirals§! who wins a battle have a chance to gain the §Y$leader_trait_admiral_est_chivalry_hero$§! trait which provides major bonuses (chance to gain the trait depends on the battle circumstances)."
 
 tr_est_chivalry_1:0 "Rules of Engagement"
 tr_est_chivalry_1_desc:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§! is increased by §G+10%§!."
-tr_est_chivalry_1_delayed:0 "Fleet engagements follows a strict set of rules. To break this code of chivalry would cast disdain upon any admiral."
+tr_est_chivalry_1_delayed:0 "Each member of our military carries with them a booklet containing a specific code of battle for each potential battlefield. From the lowest private, to the Grand Admiral himself, all who violate these codes are punished accordingly."
 
 tr_est_chivalry_2:0 "Honour"
 tr_est_chivalry_2_desc:0 "§YTrust Growth§! increased by §G+30%§!. Foreign Empire £opinion  §YOpinion§! is increased by §G+20§!."
 tr_est_chivalry_2_no_dip_desc:0 "The £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pops  §YPops§! is increased by §G+5%§!."
-tr_est_chivalry_2_delayed:0 "One should always strive to be honorful for the worth of an individual is the same as the extent of their honour."
+tr_est_chivalry_2_delayed:0 "A citizen's worth is determined by their adherence to our empire's code of honour. The public presence of a dishonoured individual is not welcomed here."
 
-tr_est_chivalry_3:0 "Work Ethics"
-tr_est_chivalry_3_desc:0 "£energy  §YEnergy Credit§!, £food  §YFood§! and £minerals  §YMineral§! produced by jobs is increased by §G+5%§!."
-tr_est_chivalry_3_delayed:0 "There is honour in performing ones task diligently, whenever the task itself is of a menial or important nature."
+tr_est_chivalry_3:0 "Professional Integrity"
+tr_est_chivalry_3_desc:0 "£energy  §YEnergy Credit§!, £food  §YFood§!, and £minerals  §YMineral§! produced by jobs are increased by §G+5%§!."
+tr_est_chivalry_3_delayed:0 "Be the task menial or complex, there is honour in performing that task with persistent integrity."
 
-tr_est_chivalry_4:0 "A Warriors Valour"
-tr_est_chivalry_4_desc:0 "§YArmy Morale§! is increased by §G+25%§! and §YArmy Upkeep§! and §YArmy Build Cost§! is reduced by §G-15%§!."
-tr_est_chivalry_4_delayed:0 "Bravery in battle is a virtue. Because of this our citizen flocks to become a soldier for this profession offers a chance to prove ones worth like none other."
+tr_est_chivalry_4:0 "The Warrior, Revered"
+tr_est_chivalry_4_desc:0 "§YArmy Morale§! is increased by §G+25%§!; §YArmy Upkeep§! and §YArmy Build Cost§! are reduced by §G-15%§!."
+tr_est_chivalry_4_delayed:0 "Our glorious dead are honoured not with somber rituals, but great festivals. Both life and death of each departed soldier are extolled by their loved ones and commanding officers."
 
-tr_est_chivalry_5:0 "Glorious Battle"
-tr_est_chivalry_5_desc:0 "Destroying enemy combat ships and stations provide £unity  §YUnity§!. Amount increase with ship or station size."
-tr_est_chivalry_5_delayed:0 "Battle offers a chance to prove ones worth like none other. In flames the greatest of individuals will be forged."
+tr_est_chivalry_5:0 "Formidable Opponents"
+tr_est_chivalry_5_desc:0 "Destroying enemy combat ships and stations provides £unity  §YUnity§!. Amount increases with ship or station size."
+tr_est_chivalry_5_delayed:0 "A soldier finds glory most often against an evenly matched enemy."
 
 tr_est_chivalry_finish:0 "Chivalry Traditions finished"
 tr_est_chivalry_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_chivalry_adopt$ allows every ruler to select a virtue, providing a set of bonuses."
