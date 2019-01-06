@@ -354,7 +354,7 @@ tr_est_chivalry_finish_effect_AI:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr
 ### Swap - The Swarm ###
 
 tradition_est_the_swarm:0 "The Swarm"
-tradition_est_the_swarm_desc:0 "Our name is Legion, for we are many"
+tradition_est_the_swarm_desc:0 "Where one falls, there are always more to take its place."
 
 tr_est_the_swarm_adopt:0 "Swarm Traditions"
 tr_est_the_swarm_adopt_desc:0 "$tradition_est_the_swarm_desc$\n\n$tr_est_the_swarm_adopt_effect$\n\n$tr_est_the_swarm_finish_effect$"
@@ -363,19 +363,19 @@ tr_est_the_swarm_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_planet_pops_
 tr_est_the_swarm_1:0 "Hordes"
 #tr_est_the_swarm_1_desc:0 "Whenever an army is built, generate an additional identical army. §YGrowth Speed§! is increased by §G+5%§!."
 tr_est_the_swarm_1_desc:0 "§YArmy Build Speed§! increased by §G+50%§! and §YGrowth Speed§! increased by §G+10%§!."
-tr_est_the_swarm_1_delayed:0 "The number of drones under our control far outnumbers the populations of any mortal empire. So many are they that when our armies approach the ground seems to move. "
+tr_est_the_swarm_1_delayed:0 "The number of drones under our control far outnumbers the population of any mortal empire. So many are they that when our armies approach the ground seems to move."
 
 tr_est_the_swarm_1_machines:0 "Hordes"
 tr_est_the_swarm_1_machines_desc:0 "§YArmy Build Speed§! increased by §G+50%§! and §YRobot Assembly Speed§! increased by §G+10%§!."
-tr_est_the_swarm_1_machines_delayed:0 "The number of drones under our control far outnumbers the populations of any mortal empire. So many are they that when our armies approach the ground seems to move. "
+tr_est_the_swarm_1_machines_delayed:0 "The number of drones under our control far outnumbers the population of any mortal empire. So many are they that when our armies approach the ground seems to move. "
 
-tr_est_the_swarm_2:0 "Overwhelming Numbers"
+tr_est_the_swarm_2:0 "Strength in Numbers"
 tr_est_the_swarm_2_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! is increased by §G+15%§! and §YFleet Command Limit§! increased by §G+10%§!."
-tr_est_the_swarm_2_delayed:0 "Our primary naval tactics is to overwhelm the enemy with superior numbers. We will send wave after wave with ships, until they have lost all capacity to fight."
+tr_est_the_swarm_2_delayed:0 "Victory follows when you overwhelm your enemy. We will send wave after wave of ships, battering their forces until none remain."
 
-tr_est_the_swarm_3:0 "Swarming Fleets"
+tr_est_the_swarm_3:0 "Death by 1000 Cuts"
 tr_est_the_swarm_3_desc:0 "§YCorvette Build Speed§! increased by §G+100%§! and §YCorvette Build Cost§! reduced by §G-10%§!."
-tr_est_the_swarm_3_delayed:0 "Our fleets consists of large numbers of smaller vessels. While they lack the quality of larger ships, if present in sufficient quantity they can easily destroy any fleet. "
+tr_est_the_swarm_3_delayed:0 "Our corvettes may lack the firepower power of the larger ships in the fleet, but their number outmatches the enemy 200-to-1. "
 
 tr_est_the_swarm_4:0 "Population Explosion"
 tr_est_the_swarm_4_desc:0 "New colonies start with §Y1§! additional £pops  Pop. In addition, §Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§! increased by §G+25%§!."
@@ -1687,7 +1687,7 @@ tr_est_cooperativity_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $
 # Piracy
 ################################################################
 tradition_est_piracy:0 "Piracy"
-tradition_est_piracy_desc:0 "Assets belong to those who are strong enough to seize them."
+tradition_est_piracy_desc:0 "Assets belong to those with the strength to seize them."
 tradition_est_piracy_GC:0 "Raider"
 tradition_est_piracy_GC_desc:0 "$tradition_est_piracy_desc$"
 
@@ -1707,7 +1707,7 @@ tr_est_piracy_adopt_special_GC:0 "$tr_est_piracy_adopt_GC$"
 tr_est_piracy_adopt_special_GC_desc:0 "$tradition_est_piracy_GC_desc$\n\n$tr_est_piracy_adopt_special_effect$\n\n$tr_est_piracy_finish_effect$"
 
 tr_est_piracy_1:0 "Scavenger"
-tr_est_piracy_1_desc:0 "Destroying enemy ships and stations provide £minerals  §YMinerals§!. Amount increase with ship or station size, and even more if it is a station which is destroyed."
+tr_est_piracy_1_desc:0 "Destroying enemy ships and stations provide £minerals  §YMinerals§!. Amount increases with ship or station size, and even more if it is a station which is destroyed."
 tr_est_piracy_1_delayed:0 "Whatever our enemies own we will take, even if we will have to take it from their corpses or from the wrecks of their ships. We will find a use for everything."
 
 tr_est_piracy_2:0 "Raiders"
@@ -1715,16 +1715,16 @@ tr_est_piracy_2_desc:0 "Lets us raid our neighbours, gaining yearly £minerals  
 tr_est_piracy_2_AI_desc:0 "Our £energy  §YEnergy Credit§! output is increased by §G+10%§!."
 tr_est_piracy_2_delayed:0 "We are skilled raiders, able to send small raiding parties across the borders to foreign empires, attacking undefended settlements and trade ships. We will take whatever we can find of value and then disappear."
 
-tr_est_piracy_3:0 "Saboteur"
+tr_est_piracy_3:0 "Sabotage"
 tr_est_piracy_3_desc:0 "Reduce £food §YFood§! and £minerals  §YMineral§! output by §R-10%§! and increase §YBuilding Upkeep§! by §R+10%§! for all our §YRivals§!. §Y$MOD_COUNTRY_MAX_RIVALRIES$§! increased by §Y1§!."
 tr_est_piracy_3_other_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§! increased by §G+5%§! and§Y$MOD_COUNTRY_MAX_RIVALRIES$§! increased by §G1§!."
-tr_est_piracy_3_delayed:0 "We have little love for our enemies, we don't have to succeed if we can make them fail. To ensure this we will use even the most underhand of tactics."
+tr_est_piracy_3_delayed:0 "We have little love for our enemies. Their failures to secure their supplies are an open invitation to take what they clearly do not value."
 
 tr_est_piracy_4:0 "Ruthless Fighters"
 tr_est_piracy_4_desc:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§! and §Y$MOD_SHIP_WEAPON_DAMAGE$§! is increased by §G+5%§!."
-tr_est_piracy_4_delayed:0 "We are unusually ruthless fighters, having little mercy for our enemies."
+tr_est_piracy_4_delayed:0 "Mercy is for the weak, it has no place in our culture."
 
-tr_est_piracy_5:0 "Rights of the Strong"
+tr_est_piracy_5:0 "Right of Strength"
 tr_est_piracy_5_desc:0 "The £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pop_cat_ruler  §YRuler Pops§! is increased by §G+15%§! and the §YPolitical Power§! of all £pop_cat_worker  §YWorker§! and  £pop_cat_slave  §YSlave Pops§! by §G-25%§!."
 tr_est_piracy_5_no_slaves_desc:0 "The £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pop_cat_ruler  §YRuler Pops§! is increased by §G+15%§! and the §YPolitical Power§! of all £pop_cat_worker  §YWorker Pops§! by §G-25%§!."
 tr_est_piracy_5_delayed:0 "It is a law of nature that the weak should bend to the strong."
