@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 
 ################################################################
 # ACADEMY
@@ -187,11 +187,11 @@ tr_est_aesthetics_1_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§! increased by §G+1
 tr_est_aesthetics_1_delayed:0 "The works of our writers and poets are notorious throughout the galaxy. Even citizens in the empires of our rivals bashfully ask for their autographs."
 
 tr_est_aesthetics_2:0 "Guild of Artists"
-tr_est_aesthetics_2_desc:0 "Provides §Y1§! §YCulture Worker Job§! and §Y1§! §YEntertainer Job§! for every §Y40§! £pop §YPops§! on a planet. "
+tr_est_aesthetics_2_desc:0 "Provides §Y1§! §YCulture Worker Job§! and §Y1§! §YEntertainer Job§! for every §Y40§! £pop  §YPops§! on a planet. "
 tr_est_aesthetics_2_delayed:0 "The Guild of Artists hosts public cultural and creative events on a regular basis, bringing joy and wonder to all citizens."
 
 tr_est_aesthetics_3:0 "Inspired Infrastructure"
-tr_est_aesthetics_3_desc:0 "Foreign Empire £opinion §YOpinion§! is increased by §G+15§! and §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! increased by §G+5%§!."
+tr_est_aesthetics_3_desc:0 "Foreign Empire £opinion  §YOpinion§! is increased by §G+15§! and §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! increased by §G+5%§!."
 tr_est_aesthetics_3_xenophile_desc:0 "Foreign Empire £opinion  §YOpinion§! is increased by §G+15§!, §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! increased by §G+5%§!, and §YMigration Attraction§! increased by §G+25%§!."
 tr_est_aesthetics_3_delayed:0 "Visiting diplomats are awestruck by our ability to elegantly weave the arts into even the most mundane aspects of our cities."
 
@@ -204,7 +204,7 @@ tr_est_aesthetics_3_IP_desc:0 "Our £unity  §YUnity§! output is increased by �
 tr_est_aesthetics_3_IP_delayed:0 "We care little for the petty squabbles of other empires. In the tranquility of our isolation, we dedicate our lives to the pursuit of a singular goal; perfection of artistic beauty."
 
 tr_est_aesthetics_4:0 "Alluring Architecture"
-tr_est_aesthetics_4_desc:0 "Planets receive §Y1§! §Y$AMENITY§! for each £building §YBuilding§!."
+tr_est_aesthetics_4_desc:0 "Planets receive §Y1§! §Y$AMENITY§! for each £building  §YBuilding§!."
 tr_est_aesthetics_4_delayed:0 "The appreciation for architectural design is widespread amongst our citizenry. Many citizens enjoy simply spending time in the presence of the works of our master architects."
 
 tr_est_aesthetics_5:0 "The Five Wonders of the Galaxy"
@@ -344,7 +344,7 @@ tr_est_chivalry_4_desc:0 "§YArmy Morale§! is increased by §G+25%§!; §YArmy 
 tr_est_chivalry_4_delayed:0 "Our glorious dead are honoured not with somber rituals, but great festivals. Both life and death of each departed soldier are extolled by their loved ones and commanding officers."
 
 tr_est_chivalry_5:0 "Formidable Opponents"
-tr_est_chivalry_5_desc:0 "Destroying enemy combat ships and stations provides £unity  §YUnity§!. Amount increases with ship or station size."
+tr_est_chivalry_5_desc:0 "Destroying enemy combat ships and stations provide £unity  §YUnity§!. Amount increases with ship or station size."
 tr_est_chivalry_5_delayed:0 "A soldier finds glory most often against an evenly matched enemy."
 
 tr_est_chivalry_finish:0 "Chivalry Traditions finished"
@@ -545,7 +545,7 @@ tr_est_biogenesis_AI_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $
 ### Swap - Serverbound ###
 
 tradition_est_processing:0 "Serverbound"
-tradition_est_processing_desc:0 "Vast server halls, buried beneath the surface of our planets, provides massive processing power and thus extends the capacity of our very mind."
+tradition_est_processing_desc:0 "Vast systems of computing components, buried beneath the surface of our planets, provide the processing power and capacity necessary to expand our minds as we expand our empire."
 tr_est_processing_adopt:0 "Serverbound Traditions"
 tr_est_processing_adopt_desc:0 "$tradition_est_processing_desc$\n\n$tr_est_processing_adopt_effect$\n\n$tr_est_processing_finish_effect$"
 tr_est_processing_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§YAdmin Cap§! increased by §G20§!."
@@ -576,7 +576,7 @@ tr_est_processing_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_
 ### Swap - Shroudborn (psi) ###
 
 tradition_est_shroudborn_ap:0 "Shroudborn"
-tradition_est_shroudborn_ap_desc:0 "We have always thought our origin lay in the mortal world. But since the awakening we have started to realise that maybe we are in fact creatures of the shroud."
+tradition_est_shroudborn_ap_desc:0 "We always believed our origins lay in the mortal world. But since the awakening, we have begun to realise that maybe we are, in fact, creatures of the shroud."
 tr_est_shroudborn_ap_adopt:0 "Shroudborn Traditions"
 tr_est_shroudborn_ap_adopt_desc:0 "$tradition_est_shroudborn_ap_desc$\n\n$tr_est_shroudborn_ap_adopt_effect$\n\n$tr_est_shroudborn_ap_finish_effect$"
 tr_est_shroudborn_ap_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£unity  §YUnity§! output is increased by §G+10%§!."
@@ -595,7 +595,7 @@ tr_est_shroudborn_ap_2_passive_AI_delayed:0 "As we reach into the minds of other
 
 tr_est_shroudborn_ap_3:0 "The Watchers"
 tr_est_shroudborn_ap_3_desc:0 "$tr_est_shroudborn_3_desc$"
-tr_est_shroudborn_ap_3_delayed:0 "The Watchers are a special groups of psychics. From a state of deep meditation their minds can travel through the shroud and from its depth look into the real world. They provide us with invaluable information about what is going on throughout the galaxy."
+tr_est_shroudborn_ap_3_delayed:0 "The Watchers are a special group of psychics. From a state of deep meditation their minds can travel through the shroud and from its depth look into the real world. They provide us with invaluable information about what is going on throughout the galaxy."
 
 tr_est_shroudborn_ap_4:0 "Seventh Sense"
 tr_est_shroudborn_ap_4_desc:0 "$tr_est_shroudborn_4_desc$"
@@ -636,7 +636,7 @@ tr_est_faith_2_desc:0 "§Y$MOD_PLANET_STABILITY_ADD$§! is increased by §G5§! 
 tr_est_faith_2_delayed:0 "The words of our faith are distributed to all citizens, that they may know their calling as it is read in scripture."
 
 #tr_est_faith_3:0 "Places of Worship"
-#tr_est_faith_3_delayed:0 "Our citizen regularly visits various places of worship. There they can find inner peace, hope, or guidance in their faith."
+#tr_est_faith_3_delayed:0 "Our citizens regularly visit other places of worship. There, they find peace, hope, or guidance in their faith."
 tr_est_faith_3:0 "Ascetic Clergy"
 tr_est_faith_3_desc:0 "Provide §Y1§! £job_priest£ §Y$job_priest$ Job§! per §Y25§! £pop£ Pops on a planet."
 tr_est_faith_3_spiritualist_desc:0 "§Y$job_priest$§! produce §Y1§! additional £unity  §YUnity§! and consume §Y1§! less £consumer_goods  §YConsumer Goods§!."
@@ -1039,9 +1039,9 @@ tr_est_industry_finish_GC_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr
 # ISOLATION
 ################################################################
 tradition_est_isolation:0 "Isolation"
-tradition_est_isolation_desc:0 "If we wish to keep our way of life we must prevent any influence from the galaxy on our society."
+tradition_est_isolation_desc:0 "Our way of life will only be preserved by eschewing outside influences."
 tradition_est_isolation_GC:0 "Isolation"
-tradition_est_isolation_GC_desc:0 "Nothing good can come from contact with the mortals of this galaxy."
+tradition_est_isolation_GC_desc:0 "Interaction with the other beings in the galaxy constitutes a net negative outcome, and should be avoided at all costs."
 
 tr_est_isolation_adopt:0 "Isolation Traditions"
 tr_est_isolation_adopt_desc:0 "$tradition_est_isolation_desc$\n\n$tr_est_isolation_adopt_effect$\n\n$tr_est_isolation_finish_effect$"
@@ -1058,7 +1058,7 @@ tr_est_isolation_2_delayed:0 "We are prepared to defend our way of life at any c
 
 tr_est_isolation_3:0 "Buffer Zones"
 tr_est_isolation_3_desc:0 "Reduce the penalty for §YEmpire Size§! by §G-10%§!."
-tr_est_isolation_3_delayed:0 "We will institute buffer zones between our worlds and that of others. These vast stretches of empty space ensures that we can live our life at safe distance from the outsiders."
+tr_est_isolation_3_delayed:0 "We will institute buffer zones between our worlds and that of others. These vast stretches of empty space ensures that we can live our lives at safe distance from their influence."
 
 tr_est_isolation_4:0 "Guarding Against Foreign Influences"
 tr_est_isolation_4_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! increased by §G+15%§!."
@@ -1066,15 +1066,15 @@ tr_est_isolation_4_delayed:0 "Outside influences may take any form. We must guar
 
 tr_est_isolation_4_GC:0 "Eternal Silence"
 tr_est_isolation_4_GC_desc:0 "Reduce §YBorder Friction§! by §G-80%§!."
-tr_est_isolation_4_GC_delayed:0 "From our space there is only silence. Our impact on the galaxy is a whole is negligible. Our neighbours know about or existence, but have little reason to care about our presence."
+tr_est_isolation_4_GC_delayed:0 "From our space there is only silence. Our impact on the galaxy, as a whole, is negligible. Our neighbours know of our existence, but have little reason to worry of our presence."
 
 tr_est_isolation_5:0 "Hermit Realm"
 tr_est_isolation_5_desc:0 "Our £unity  §YUnity§! output is increased by §G+20%§! while we have no diplomatic relations with the exception of §YNon-Aggression Pacts§!."
-tr_est_isolation_5_delayed:0 "We will remain an isolated society, cut off from the rest of the galaxy. On our worlds we will live our life independently of what happens in the great void outside."
+tr_est_isolation_5_delayed:0 "In isolation, we shall remain. On our worlds, we will toil for our own ends, uncaring of the events in the great void outside."
 
-tr_est_isolation_5_GC:0 "Tranquillity"
+tr_est_isolation_5_GC:0 "Tranquility"
 tr_est_isolation_5_GC_desc:0 "Our £unity  §YUnity§! output is increased by §G+20%§! while we have no diplomatic relations with the exception of §YNon-Aggression Pacts§!."
-tr_est_isolation_5_GC_delayed:0 "There is only us, and the void. In the silence that is we can hear out thoughts echo throughout eternity."
+tr_est_isolation_5_GC_delayed:0 "There is only us, and the void. The void greets us with cherished silence, and in this, our thoughts echo through eternity."
 
 tr_est_isolation_finish:0 "Isolation Traditions finished"
 tr_est_isolation_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_isolation_adopt$ increases the £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pops  Pops by §G+10%§! while we are not at war."
@@ -1160,7 +1160,7 @@ tr_est_justice_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est
 ### Swap - Destruction ###
 
 tradition_est_destruction:0 "Destruction"
-tradition_est_destruction_desc:0 "Choosing the path of destruction was simple. Deciding which empire to cleanse first was more difficult."
+tradition_est_destruction_desc:0 "Choosing the path of destruction is simple. Deciding which empire to cleanse first is more difficult."
 tr_est_destruction_adopt:0 "Destruction Traditions"
 tr_est_destruction_adopt_desc:0 "$tradition_est_destruction_desc$\n\n$tr_est_destruction_adopt_effect$\n\n$tr_est_destruction_finish_effect$"
 tr_est_destruction_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! is increased by §G+20%§!."
@@ -1261,7 +1261,7 @@ tr_est_liberty_finish_no_migration_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdoptin
 
 ### Swap - Fury ###
 tradition_est_fury:0 "Fury"
-tradition_est_fury_desc:0 "Within us burns the eternal flame of hate. As we release our rage the flame is only dulled, never quenched."
+tradition_est_fury_desc:0 "Within us burns the eternal flame of hate. As we unleash this rage upon our enemies, the flame may diminish, but can never be quenched."
 tr_est_fury_adopt:0 "Fury Traditions"
 tr_est_fury_adopt_desc:0 "$tradition_est_fury_desc$\n\n$tr_est_fury_adopt_effect$\n\n$tr_est_fury_finish_effect$"
 tr_est_fury_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nUnlocks the §YFury§! policy which can be set from level §Y0§! to level §Y5§!, reducing foreign empire £opinion  §YOpinion§! by §R-0§!/§R-10§!/§R-25§!/§R-45§!/§R-70§!/§R-100§! respectively. Each level increase the efficiency of the various fury traditions.\nIncrease §Y$MOD_SHIP_FIRE_RATE_MULT$§! by §G+5%§! and an additional §G+1%§! for each §YFury Level§!."
@@ -1301,7 +1301,7 @@ tr_est_fury_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_fu
 # MECHANICUM
 ################################################################
 tradition_est_mechanicum:0 "Mechanicum"
-tradition_est_mechanicum_desc:0 "What others would consider magic is to us simply engineering. No project is too great or too difficult for us to accomplish."
+tradition_est_mechanicum_desc:0 "What others might perceive as magic is, to us, simply engineering. No project is too great, or too difficult, for us to accomplish."
 tradition_est_mechanicum_GC:0 "Mechanicum"
 tradition_est_mechanicum_GC_desc:0 "$tradition_est_mechanicum_desc$"
 
@@ -1316,8 +1316,8 @@ tr_est_mechanicum_adopt_robots_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_
 tr_est_mechanicum_1:0 "Engineering Corps"
 tr_est_mechanicum_1_GC:0 "The Art of Space Construction"
 tr_est_mechanicum_1_desc:0 "Reduce §YUpkeep Cost§! and §YBuild Cost§! of §YConstruction Ships§! by §G-50%§!. §YMining Station Build Cost§! decreased by §G-20%§."
-tr_est_mechanicum_1_delayed:0 "While many consider engineering a fine profession few treasure it like we do. Engineers are considered to be at the pinnacle of society and even a low-grade engineer is highly respected. The engineering corps os considered one of the most prestigious branches of our navy."
-tr_est_mechanicum_1_GC_delayed:0 "Since long ago we have perfected the art of space construction. With little effort or construction ships are able to build new space stations."
+tr_est_mechanicum_1_delayed:0 "While others view engineering as simply a profession, our culture celebrates it as a marvel of science and ingenuity. New apprentices in engineering are highly respected, and joining the Engineering Corps is encouraged at all ages."
+tr_est_mechanicum_1_GC_delayed:0 "Long ago, we perfected construction in the void. Our construction ships and their crews feel at home anywhere they are tasked to build."
 
 tr_est_mechanicum_2:0 "Develop new Blueprints"
 tr_est_mechanicum_2_GC:0 "Develop new Blueprints"
@@ -1325,13 +1325,13 @@ tr_est_mechanicum_2_machines:0 "Develop new Blueprints"
 tr_est_mechanicum_2_desc:0 "§Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§! increased by §G+15%§!."
 tr_est_mechanicum_2_robots_desc:0 "§YRobot Modification Points§! increased by §Y1§!."
 tr_est_mechanicum_2_machines_desc:0 "§YMachine Modification Points§! increased by §Y1§!."
-tr_est_mechanicum_2_delayed:0 "While standard templates are spread throughout our empire we also encourage new improved design. This task is something reserved for our most skilled engineers."
+tr_est_mechanicum_2_delayed:0 "While standard templates are spread throughout our empire, we also encourage attempts to improve design. Of course, any suggested improvements are intensely scrutinized by our most skilled engineers."
 tr_est_mechanicum_2_GC_delayed:0 "We use standard templates for most constructs we make. However we will always seek to improve these templates, as well as ensuring that we develop new ones."
 tr_est_mechanicum_2_machines_delayed:0 "We use standard templates for most constructs we make. However we will always seek to improve these templates, as well as ensuring that we develop new ones."
 
 tr_est_mechanicum_3:0 "Machines of War"
 tr_est_mechanicum_3_desc:0 "§HUnlocks Armies:§! §Y$est_titan_army$§!, §Y$est_mechanical_knights_army$§!.\n§Y$MOD_ARMY_DAMAGE_MULT$§! increased by §G+10%§!."
-tr_est_mechanicum_3_delayed:0 "Large battle machines are an imposing sight on the battlefield. Various bipedal walkers are able to field both superior armour and heavier weaponry as composed to or normal troops."
+tr_est_mechanicum_3_delayed:0 "Titanic battle machines are an intimidating sight on the battlefield, as they are outfitted with superior armour and heavier firepower than standard infantry."
 
 tr_est_mechanicum_4:0 "Grand Designs"
 tr_est_mechanicum_4_GC:0 "$tr_est_mechanicum_4$"
@@ -1339,21 +1339,21 @@ tr_est_mechanicum_4_megastruct_GC:0 "$tr_est_mechanicum_4$"
 tr_est_mechanicum_4_desc:0 "§YStarbase Hull Points§! increased by §G+33%§!."
 tr_est_mechanicum_4_megastruct_desc:0 "§YMegastructure Build Speed§! increased by §G+20%§! and §YMegastructure Build Cost§! decreased by §G-10%§!."
 tr_est_mechanicum_4_megastruct_GC_desc:0 "$tr_est_mechanicum_4_megastruct_desc$"
-tr_est_mechanicum_4_delayed:0 "Our engineers are able to design constructs far outsizing those found elsewhere in the galaxy. Indeed, we are proud of the pure scale of our construction projects."
-tr_est_mechanicum_4_GC_delayed:0 "We are able to design constructs far outsizing those found elsewhere in the galaxy. Indeed, the pure scale of our construction projects leaves the mortal empires in awe."
-tr_est_mechanicum_4_megastruct_GC_delayed:0 "We are able to design constructs far outsizing those found elsewhere in the galaxy. Indeed, the pure scale of our construction projects leaves the mortal empires in awe."
+tr_est_mechanicum_4_delayed:0 "Our engineers design constructs far outsizing those found elsewhere in the galaxy. The sheer scale of our construction projects boggles the minds of many foreign engineers."
+tr_est_mechanicum_4_GC_delayed:0 "Our engineers design constructs far outsizing those found elsewhere in the galaxy. The sheer scale of our construction projects boggles the minds of many foreign engineers."
+tr_est_mechanicum_4_megastruct_GC_delayed:0 "Our engineers design constructs far outsizing those found elsewhere in the galaxy. The sheer scale of our construction projects boggles the minds of many foreign engineers."
 
 tr_est_mechanicum_5:0 "The Guild of Engineers"
-tr_est_mechanicum_5_desc:0 "§HUnlocks Building:§! "Engineers Guildhall\n§EThis building provides £job_est_engineer£ §Y$job_est_engineer$§!, and £job_technician£ §Y$job_technician$ Jobs§!, as well as bosting planet £engineering  §YEngineerinmg Research§! output. Requires at least a £building  §Y$building_major_capital$§! to be built§!."
-tr_est_mechanicum_5_robots_desc:0 "§HUnlocks Building:§! Engineers Guildhall\n§EThis building provides £job_est_engineer£ §Y$job_est_engineer$§!, £job_technician£ §Y$job_technician$§!, and £job_roboticist£ §Y$job_roboticist$ Jobs§!, as well as bosting planet £engineering  §YEngineerinmg Research§! output. Requires at least a £building  §Y$building_major_capital$§! to be built§!."
-tr_est_mechanicum_5_delayed:0 "The venerated guild of engineers is possibly the most powerful organisation within our empire. They educate new engineers, and also monopolise the right for all developments of our engineering technology. The grandmaster of this order are also highly influencial members of our society, holding many important seats within our goverment."
-tr_est_mechanicum_5_GC:0 "Self Reparation Protocols"
-tr_est_mechanicum_5_GC_desc:0 "§YDaily Hull§! and §YArmor Reparation§! increased by §G+0.5%§!."
-tr_est_mechanicum_5_GC_delayed:0 "Specialised machnies allows our ships to start self-repair, as soon as damage is taken."
+tr_est_mechanicum_5_desc:0 "§HUnlocks Building:§! "Engineers Guildhall\n§EThis building provides £job_est_engineer£ §Y$job_est_engineer$§!, and £job_technician£ §Y$job_technician$ Jobs§!, as well as boosting planet £engineering  §YEngineerinmg Research§! output. Requires at least a £building  §Y$building_major_capital$§! to be built§!."
+tr_est_mechanicum_5_robots_desc:0 "§HUnlocks Building:§! Engineers Guildhall\n§EThis building provides £job_est_engineer£ §Y$job_est_engineer$§!, £job_technician£ §Y$job_technician$§!, and £job_roboticist£ §Y$job_roboticist$ Jobs§!, as well as boosting planet £engineering  §YEngineerinmg Research§! output. Requires at least a £building  §Y$building_major_capital$§! to be built§!."
+tr_est_mechanicum_5_delayed:0 "The venerated guild of engineers is possibly the most powerful organisation within our empire. They educate new recruits of the engineering corps, and oversee the design, direction, and construction of all contruction projects within the empire. The grandmaster of this order are also highly influencial members of our society, holding many important seats within our goverment."
+tr_est_mechanicum_5_GC:0 "Self-Repairing Systems"
+tr_est_mechanicum_5_GC_desc:0 "Daily §YHull§! and §YArmor§! regen increased by §G+0.5%§!."
+tr_est_mechanicum_5_GC_delayed:0 "Auto-diagnostic and redunancy protocols integrated into all naval ship designs enable our fleets to initiate self-repair, as soon as damage is detected."
 
 tr_est_mechanicum_finish:0 "Mechanicum Traditions finished"
 tr_est_mechanicum_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_mechanicum_adopt$ increases £energy  §YEnergy Credit§! output from £job_technician£ §Y$job_technician$s§! by §G1§!."
-tr_est_mechanicum_finish_GC_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_mechanicum_adopt$ increases £energy  §YEnergy Credit§! output from £job_technician_drone£ §Y$job_technician_drone$! by §G1§!."
+tr_est_mechanicum_finish_GC_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_mechanicum_adopt$ increases £energy  §YEnergy Credit§! output from £job_technician_drone£ §Y$job_technician_drone$!§ by §G1§!."
 
 ################################################################
 # MILITARISM
@@ -1486,10 +1486,10 @@ tr_est_philosophy_4_desc:0 "Our £unity  §YUnity§! output is increased by §G+
 tr_est_philosophy_4_delayed:0 "What is the reason for our existence? What force have awaken us in this world, and what force may put us to sleep? "
 
 tr_est_philosophy_5:0 "The Nature of Existence"
-tr_est_philosophy_5_desc:0 "Provide §Y3§! additional £job_spawning_drone£ §Y$job_spawning_drone$ Job§! on each planet."
+tr_est_philosophy_5_desc:0 "Provide §Y1§! additional £job_spawning_drone£ §Y$job_spawning_drone$ Job§! on each planet."
 tr_est_philosophy_5_delayed:0 "Why is there something, where there could have been nothing?"
 tr_est_philosophy_5_machines:0 "$tr_est_philosophy_5$"
-tr_est_philosophy_5_machines_desc:0 "Provide §Y3§! additional £job_replicator£ §Y$job_replicator$ Job§! on each planet."
+tr_est_philosophy_5_machines_desc:0 "Provide §Y1§! additional £job_replicator£ §Y$job_replicator$ Job§! on each planet."
 tr_est_philosophy_5_machines_delayed:0 "$tr_est_philosophy_5_delayed$"
 
 tr_est_philosophy_finish:0 "Mystery Traditions finished"
@@ -1725,17 +1725,17 @@ tr_est_piracy_4_desc:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§! and §Y$MOD_SHIP_WEAPON_
 tr_est_piracy_4_delayed:0 "Mercy is for the weak, it has no place in our culture."
 
 tr_est_piracy_5:0 "Right of Strength"
-tr_est_piracy_5_desc:0 "The £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pop_cat_ruler  §YRuler Pops§! is increased by §G+15%§! and the §YPolitical Power§! of all £pop_cat_worker  §YWorker§! and  £pop_cat_slave  §YSlave Pops§! by §G-25%§!."
-tr_est_piracy_5_no_slaves_desc:0 "The £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pop_cat_ruler  §YRuler Pops§! is increased by §G+15%§! and the §YPolitical Power§! of all £pop_cat_worker  §YWorker Pops§! by §G-25%§!."
+tr_est_piracy_5_desc:0 "The £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pop_cat_ruler  §YRuler Pops§! is increased by §G+15%§! and the §YPolitical Power§! of all £pop_cat_worker  §YWorker Pops§! by §G-25%§!."
+tr_est_piracy_5_slavery_desc:0 "The £happiness  §Y$MOD_POP_HAPPINESS$§! of all £pop_cat_ruler  §YRuler Pops§! is increased by §G+15%§! and the §YPolitical Power§! of all £pop_cat_worker  §YWorker§! and  £pop_cat_slave  §YSlave Pops§! by §G-25%§!."
 tr_est_piracy_5_delayed:0 "The laws of nature dictate that the weak should bow to the strong."
 
 tr_est_piracy_5_nice:0 "Free Spirits"
 tr_est_piracy_5_nice_desc:0 "§YPop Growth from Migration§! increased by §G+15%§! and §Y$MOD_SHIP_SPEED_MULT$§! increased by §G+10%§!."
-tr_est_piracy_5_nice_delayed:0 "Life is an adventure and we won't let anything hold us down."
+tr_est_piracy_5_nice_delayed:0 "Life is an adventure, and we won't let anything hold us down."
 
 tr_est_piracy_5_hive:0 "Xenophage"
 tr_est_piracy_5_hive_desc:0 "Generates §Y10§! £food  for every £pop  §YPop§! on a planet we successfully invade. The $tr_est_piracy_2$ tradition also generates £food  §YFood§!."
-tr_est_piracy_5_hive_delayed:0 "We are not picky with what we eat, we will take what is available. The flesh of the mortals will serve as good as anything else."
+tr_est_piracy_5_hive_delayed:0 "We are not picky eaters, and will happily eat what is set before us. Sentience does not affect flavour."
 
 tr_est_piracy_5_hive_livestock:0 "Xenophage"
 tr_est_piracy_5_hive_livestock_desc:0 "Generates §Y10§! £food  for every £pop  §YPop§! on a planet we successfully invade. The $tr_est_piracy_2$ tradition also generates £food  §YFood§!. §YLivestocks§! generate §Y1§! additional £food  §YFood§!."
@@ -1756,10 +1756,10 @@ tr_est_piracy_finish_passive_AI_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting a
 # SPACEBORN
 ################################################################
 tradition_est_spaceborn:0 "Spaceborn"
-tradition_est_spaceborn_desc:0 "Ever since we first sat our eyes upon the great void above, we have known that that is our true home."
+tradition_est_spaceborn_desc:0 "Even upon first sight of the void above, we knew that was where we belonged."
 
 tradition_est_spaceborn_GC:0 "$tradition_est_spaceborn$"
-tradition_est_spaceborn_GC_desc:0 "Ever since we first sighted the great void above, we have known that that is were we truly belong."
+tradition_est_spaceborn_GC_desc:0 "Even upon first sight of the void above, we knew that was where we belonged."
 
 tr_est_spaceborn_adopt:0 "Spaceborn Traditions"
 tr_est_spaceborn_adopt_desc:0 "$tradition_est_spaceborn_desc$\n\n$tr_est_spaceborn_adopt_effect$\n\n$tr_est_spaceborn_finish_effect$"
