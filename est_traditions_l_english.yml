@@ -700,18 +700,18 @@ tr_est_purposefullness_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all
 # FOUNDATION
 ################################################################
 tradition_est_foundation:0 "Foundation"
-tradition_est_foundation_desc:0 "Others try to spread their empires far and wide. We works towards a deeper and more fundamental goal."
+tradition_est_foundation_desc:0 "Others try to spread their empires far and wide. We work towards a deeper and more fundamental goal."
 tr_est_foundation_adopt:0 "Foundation Traditions"
 tr_est_foundation_adopt_desc:0 "$tradition_est_foundation_desc$\n\n$tr_est_foundation_adopt_effect$\n\n$tr_est_foundation_finish_effect$"
-tr_est_foundation_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nIncreases £engineering  §YEngineering§!, £physics  §YPhysics§! and £society  §YSociety§! output by §G+10%§! on §YCore Worlds§!.\n\n (Swapped for Confederacy Traditions if at least 150 administrative capacity is reached). "
+tr_est_foundation_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nIncreases £engineering  §YEngineering§!, £physics  §YPhysics§! and £society  §YSociety§! output by §G+10%§! on §YCore Worlds§!.\n\n (Swapped for Confederacy Traditions if at least 150 Empire Sprawl is reached). "
 
 tr_est_foundation_1:0 "A Common Cause"
 tr_est_foundation_1_desc:0 "£unity  §YUnity§! output is increased by §G+15%§! on §YCore Worlds§!."
-tr_est_foundation_1_delayed:0 "We are all united in a common cause. Everyone of us knows that they are an important cog in the machinery that works towards our goal."
+tr_est_foundation_1_delayed:0 "We are all united in a common cause. Everyone of us knows that they are an important cog in the machinery that works toward our goal."
 
 tr_est_foundation_2:0 "Centralized Government"
 tr_est_foundation_2_desc:0 "£energy  §YEnergy Credit§!, £engineering  §YEngineering§!, £physics  §YPhysics§!, £society  §YSociety§!, and £trade_value  §YTrade Value§! output is increased by §G+10%§! on our §YCapital World§!. This is increased to  §G+20%§!/ §G+30%§! if we have researched the §Y$tech_colonial_centralization$§!/§Y$tech_galactic_administration$§! technologies, respective."
-tr_est_foundation_2_delayed:0 "Our government is centralized to our capital from which it can govern the relatively few number of worlds that we control."
+tr_est_foundation_2_delayed:0 "Our government is centralized to our capital, from which it can govern the relatively few number of worlds that we control."
 
 tr_est_foundation_3:0 "The Grand Design"
 tr_est_foundation_3_desc:0 "§Y$mod_country_base_influence_produces_add$§! increased by §Y1§!."
@@ -719,15 +719,15 @@ tr_est_foundation_3_delayed:0 "Central to everything is the Grand Design. It is 
 
 tr_est_foundation_4:0 "Intelligence Gathering Corps"
 tr_est_foundation_4_desc:0 "§YShip Sensor Range§! increased by §G+1§! and §YSurvey Speed§! increased by §G+10%§!."
-tr_est_foundation_4_delayed:0 "Our Intelligence Gathering Corps travel the galaxy and continuously sends information back home about the state of the galaxy. This information is vital to our cause, or at least to minimize disturbance from the outside."
+tr_est_foundation_4_delayed:0 "Our Intelligence Gathering Corps travel the galaxy and continuously send information back home about the state of the galaxy. This information is vital to our cause, or at least to minimize disturbance from the outside."
 
 tr_est_foundation_5:0 "Expanding the Navy"
 tr_est_foundation_5_desc:0 "For every core world we control, increase our §YNaval Capacity§! by §Y1§! plus an additional §Y1§! for every §YFleet Doctrine§! technologies we have researched."
 tr_est_foundation_5_AI_desc:0 "Increase our §YNaval Capacity§! by §G20§! for every §YFleet Doctrin§! technology we have researched.  In addition, §Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§! increased by §Y1§!."
-tr_est_foundation_5_delayed:0 "In the galaxy there are those that would hinder us from carrying out our task. We must ensure that we have a strong navy to defend our cause."
+tr_est_foundation_5_delayed:0 "In the galaxy there are those that would hinder us from carrying out our task. We must ensure we have a strong navy to defend our cause."
 
 tr_est_foundation_finish:0 "Foundation Traditions finished"
-tr_est_foundation_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_foundation_adopt$ increases §YMPlanet Max Districts§! by §Y2§!."
+tr_est_foundation_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_foundation_adopt$ increases §YPlanet Max Districts§! by §Y2§!."
 
 ### Swap - Confederacy ###
 
@@ -739,11 +739,11 @@ tr_est_confederacy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\nIncrease £mineral
 
 tr_est_confederacy_1:0 "Local Command Structures"
 tr_est_confederacy_1_desc:0 "§YGovernor Recruitment Cost§! reduced by §G-33%§! and §YLeader Upkeep§! reduced by §G-10%§!."
-tr_est_confederacy_1_delayed:0 "Rather than centralizing the assignments of important positions we will let each local government use their own command structures."
+tr_est_confederacy_1_delayed:0 "Rather than centralizing the assignments of important positions, we will let each local government use their own command structures."
 
 tr_est_confederacy_2:0 "Restrict Federal Power"
 tr_est_confederacy_2_desc:0 "§Y$MOD_PLANET_Crime_ADD$§! is reduced by §G-10§! and £happiness  §Y$MOD_POP_HAPPINESS$§! increased by §G+5%§! in all §YSectors§! governed by a §YGovernor§!."
-tr_est_confederacy_2_delayed:0 "To centralize power is to steal it from where it belongs. To guarantee the sovereignty of our numerous of states we will enforce strict restrictions on what power the federal government might wield."
+tr_est_confederacy_2_delayed:0 "To centralize power is to steal it from where it belongs. To guarantee the sovereignty of our numerous states, we will enforce strict restrictions on what power the federal government might wield."
 
 tr_est_confederacy_3:0 "National Assembly"
 tr_est_confederacy_3_desc:0 "§YFaction Influence Gain§! increased by §G+33%§!."
@@ -755,7 +755,7 @@ tr_est_confederacy_4_delayed:0 "Our empire is composed of an intricate structure
 
 tr_est_confederacy_4_no_subj:0 "Loyalty"
 tr_est_confederacy_4_no_subj_desc:0 "§YGoverment Ethics Attraction§! increased by §G+15%§!."
-tr_est_confederacy_4_no_subj_delayed:0 "Our empire contains many faction and most planets and sectors wield an unusual amount of autonomy. While we may disagree on many topics, we are all loyal to our united empire and common cause."
+tr_est_confederacy_4_no_subj_delayed:0 "Our empire contains many factions, and most planets and sectors wield an unusual amount of autonomy. While we may disagree on many topics, we are all loyal to our united empire and common cause."
 
 tr_est_confederacy_5:0 "The Endless Realm"
 tr_est_confederacy_5_desc:0 "§YOutpost Upkeep Cost§! reduced by §G-33%§!."
@@ -1530,11 +1530,11 @@ tr_est_natural_1_GC_delayed:0 "The resources given to us by nature are not limit
 
 tr_est_natural_2:0 "Natural Riches"
 tr_est_natural_2_desc:0 "Generate §Y2§! random deposits on all our planets (also include new planets we acquire, a planet can only be affected once)."
-tr_est_natural_2_delayed:0 "The nature around us is rich in resources that can be utilized by those that knows where to find them."
+tr_est_natural_2_delayed:0 "The nature around us is rich in resources available for those who know where to find them."
 
 tr_est_natural_3:0 "One with Nature"
 tr_est_natural_3_desc:0 "£blocker  §Y$MOD_PLANET_CLEAR_BLOCKER_COST_MULT$§! decreased by §G-50%§!."
-tr_est_natural_3_delayed:0 "Rather than pushing nature away to make way for our society we have learnt to build within it, with minimal need to devastate the nature to make room for ourselves."
+tr_est_natural_3_delayed:0 "Rather than pushing nature away to make way for our society, we have learnt to build within it, minimizing the devastation we cause to make room for ourselves."
 
 tr_est_natural_3_hive:0 "Natural Integration"
 tr_est_natural_3_hive_desc:0 "Increase §YPlanet $mod_planet_max_districts_add$§! by §Y1§!."
@@ -1546,7 +1546,7 @@ tr_est_natural_3_machines_delayed:0 "Our essence is the very opposite of the nat
 
 tr_est_natural_4:0 "Self-Sustaining"
 tr_est_natural_4_desc:0 "All our planets receive §Y1§! £job_farmer£ §Y$job_farmer$ Job§! per §Y10§!  £pop£ Pops. In additiona, £pop  §YPop Food Consumption§! is reduced by §G-10%§!."
-tr_est_natural_4_delayed:0 "Rather than solely depending on centralized food production most individuals on our worlds are to some extent self-sustaining. To some extent they can produce their own food."
+tr_est_natural_4_delayed:0 "Rather than solely depending on centralized food production, individuals on our worlds sustain themselves to some extent, growing some of their own food."
 
 tr_est_natural_4_GC:0 "$tr_est_natural_3$"
 tr_est_natural_4_GC_desc:0 "$tr_est_natural_3_desc$"
@@ -1554,7 +1554,7 @@ tr_est_natural_4_GC_delayed:0 "$tr_est_natural_3_delayed$"
 
 tr_est_natural_5:0 "Non-Consumerism"
 tr_est_natural_5_desc:0 "Reduce £pop  §YPop§! §YFood§!, §YConsumer Goods§!, §YHousing§!, and §YAmmenities§! usage by §G-5%§!."
-tr_est_natural_5_delayed:0 "While others value material things we are above such inferior behaviour."
+tr_est_natural_5_delayed:0 "While others value material things, we are above such inferior behaviour."
 
 tr_est_natural_5_GC:0 "Preservation"
 tr_est_natural_5_GC_desc:0 "§HUnlocks Building:§! Preservation (Planet unique. Produces §Y10§! £unity  §YUnity§! and increase planet £society  §YSociety§! output by §G+20%§!. Reduce planet £minerals  §YMinerals§! output by §R-10%§! and max districts by §R-1§!)."
@@ -1562,7 +1562,7 @@ tr_est_natural_5_GC_delayed:0 "Each planet has its own unique ecosystem. Our soc
 
 tr_est_natural_5_GC_AI:0 "Preservation"
 tr_est_natural_5_GC_AI_desc:0 "£unity  §YUnity§! output is increased by §G+15%§! and £society  §YSociety§! output is increased by §G+5%§!."
-tr_est_natural_5_GC_AI_delayed:0 "Every planet have their own natural habitat, unique in the galaxy. We must ensure that at least parts of it is preserved without disruption, to remain as it has before we arrived."
+tr_est_natural_5_GC_AI_delayed:0 "Every planet has its own natural habitat, unique in the galaxy. We must ensure that at least part of it is preserved without disruption, to remain as it has before we arrived."
 
 tr_est_natural_finish:0 "Nature Traditions finished"
 tr_est_natural_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_natural_adopt$ $tr_est_natural_5_GC_desc$"
